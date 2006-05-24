@@ -22,5 +22,6 @@ advice of the audit committee.
 ```
 All reports by the independent auditor shall be available
 for inspection by citizens of the Town during regular
-business hours.
+business hours at the Town’s offices.  The audit report
+shall also be made available at the Main Library.
 ```
