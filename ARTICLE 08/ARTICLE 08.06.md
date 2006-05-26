@@ -115,8 +115,8 @@ place or street within the Town of Brookline unless it is
 effectively restrained by a chain or leash not exceeding 7
 feet in length.
 
-However, in areas officially designated as _designated off
-leash area_ by the Park and Recreation Commission, or its
+However, in areas officially designated as designated off
+leash area by the Park and Recreation Commission, or its
 designee, a dog shall be allowed to be off the leash under
 the following conditions:
 
@@ -125,23 +125,29 @@ the following conditions:
 
 2. any dog left unattended may be impounded,
 
-3. the person in charge of a dog inside a
-   _designated off leash area_ must remove any fecal
-   material deposited by that dog in the _designated off
-   leash area_, before taking the dog from the
-   _designated off leash area_; and
+3. the person in charge of a dog inside a designated 
+   off leash area must remove any fecal material 
+   deposited by that dog in the designated off leash area, 
+   before taking the dog from the designated off leash area; and
 
-4. the person in charge of a dog inside a _designated
-   off leash area_ must control the animal so that it
+4. the person in charge of a dog inside a designated
+   off leash area must control the animal so that it
    does not disturb the surrounding area by barking
    or other action and so that it does not disturb
-   or threaten others using the _designated off leash
-   area_ and the area surrounding the _designated off
-   leash area_.
+   or threaten others using the designated off leash
+   area and the area surrounding the designated off
+   leash area.
 
-   Italized language in Section 8.6.7(a)above will
-   revert to language existing immediately prior
-   to the amendment on June 30, 2005.
+5. no area adjacent to a school shall be used as an
+   off leash area without approval of the School
+   Committee.
+
+6. the Director of Parks and Open Space or his/her
+   designee shall place a sign, in a conspicuous
+   place, in all designated off leash areas which
+   shall state the authorized hour(s) when such area
+   may be used for such purpose and any other
+   conditions of such use.
 ```
 
 ### SECTION 8.6.7(b) REMOVAL OF DOG WASTE
@@ -160,7 +166,6 @@ purposes of this section, the “means of removal” shall be
 any container, tool, implement or other device that is
 carried for the purpose of picking up, containing, and
 disposing of dog feces in an appropriate receptacle.
-
 Penalties for violation of this section shall be in
 accordance with the penalties appearing in Section 8.6.9 of
 these By-laws. The provisions of this section shall not
