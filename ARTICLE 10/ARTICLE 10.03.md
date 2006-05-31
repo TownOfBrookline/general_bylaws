@@ -35,7 +35,7 @@ requirements set forth in General Laws, Chapter 40, section
                  Section 5.1.10      Penalties                 $100.00
 
   Article 5.8    Sign By-Law
-                 Section 5.8.8       Penalty For Violation     $100.00
+                 Section 5.8.9       Penalty For Violation     $100.00
 
 
 
