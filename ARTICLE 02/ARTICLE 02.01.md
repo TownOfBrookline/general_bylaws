@@ -81,7 +81,7 @@ require such a waiver.
     filed with the Town Clerk, and shall direct the Town
     Clerk to publicly post such copies of the Warrant on
     the principal Town Bulletin Board at least
-    seven (7) days before the Annual Town Meeting and at
+    fourteen(14)days before the Annual Town Meeting and at
     least fourteen (14) days before any Special Town
     Meeting is to convene. Such posting shall be deemed to
     be the legal notification of such meeting and the
