@@ -159,15 +159,23 @@ town clerk, and (4) the Board of Selectmen.
 ### SECTION 2.1.11 TOWN MEETING PROCEDURE
 
 ```
-Fifteen minutes before the scheduled beginning of the first
-or opening session of any annual or special Town Meeting,
-except for a Special Town Meeting within the Town Meeting,
-the Town Meeting members who so desire shall be given the
-opportunity to recite the pledge of allegiance to the flag
-of the United States of America. There shall be no
-obligation or requirement imposed upon any individual Town
-Meeting Member or other person present to participate in
-any way if he or she does not desire to so do.
+Before the opening session of any annual or special Town
+Meeting, except for a Special Town Meeting within the Town
+Meeting, the Town Meeting members who so desire shall be
+given the opportunity to recite the pledge of allegiance to
+the flag of the United States of America.
+
+After the beginning of the first or opening session of any
+annual or special Town meeting, except for a Special Town
+Meeting within the Town Meeting, the Town Meeting members
+who so desire shall be given the opportunity, prior to
+consideration of any warrant articles, to sing the National
+Anthem.
+
+There shall be no obligation or requirement imposed upon
+any individual Town meeting member or other person present
+to participate in any way if he or she does not desire to
+do so.
 
 Any Town Meeting Member may, once recognized by the
 Moderator, request information from the Town Administrator
