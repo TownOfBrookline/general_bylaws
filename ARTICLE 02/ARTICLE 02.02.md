@@ -12,7 +12,7 @@ more than thirty registered voters of the Town.  At least
 sixteen Committee members shall be elected Town Meeting
 Members at the time of their appointment.  At least one
 elected Town Meeting Member shall be appointed from each
-precinct.  No more than six members shall be appointed who
+precinct.  No more than eight members shall be appointed who
 are not elected Town Meeting Members at the time of their
 appointment.  No more than four members of the Committee
 shall reside in the same precinct. No member of the
