@@ -62,9 +62,18 @@ include, but shall not be limited to, the function and
 needs which it is designed to fulfill, expanded services,
 auxiliary public use, additional personnel required to
 maintain the facility, annual maintenance costs, expected
-hours of the facility's availability, and overall effect on
-the town.  In formulating such a program, the Using Agency,
-after consultation with the Commission and other agencies or
+hours of the facility's availability, environmental and
+sustainability goals and objectives, and overall effect on
+the town all as appropriate for the project’s scope and
+budget. Environmental and sustainability goals and
+objectives include design and construction practices that
+explicitly consider Green technologies, site selection,
+waste minimization, energy efficiency, water conservation,
+indoor environmental quality, and other environmental and
+health factors that may provide financial, environmental,
+and occupant health and productivity benefits. In
+formulating such a program, the Using Agency, after
+consultation with the Commission and other agencies or
 authorities of the town having an interest in the use or
 development of the facility, shall prepare tentative size
 and cost requirements of the facility to accommodate such a
@@ -87,8 +96,13 @@ preparation of a feasibility study for the project,
 schematic design studies for the project, a cost estimate
 for the project (including life-cycle costs), and any
 special studies which the Commission and the Using Agency
-jointly recommend.  Upon the appropriation of such funds,
-the consultant shall be selected in accordance with Step 3.
+jointly recommend. The work of the consultant shall
+consider the investigation, cost-benefit analysis, and
+recommendation of appropriate options that address the
+environmental and sustainability goals and objectives
+outlined in paragraph (a) above.  Upon the appropriation of
+such funds, the consultant shall be selected in accordance
+with Step 3.
 
 (c) Step 3:    The Selectmen shall appoint a committee
 of seven members (the "Committee"), of whom three shall be
