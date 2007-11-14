@@ -77,9 +77,109 @@ crosswalk, any banana skin, orange peel, or any slippery or
 greasy substance.
 ```
 
-### SECTION 8.5.9 DEFACING PROPERTY
+### SECTION 8.5.9 VANDALISM AND THE DEFACEMENT OF PUBLIC AND PRIVATE PROPERTY
+
+### SECTION 8.5.9.1 PURPOSE AND INTENT
 
 ```
-No person shall deface by marks, or otherwise, in any
-manner, any fence, building, sidewalk, crosswalk or ledge.
+Vandalism and the existence of graffiti within the Town are
+considered a public and private nuisance. The purpose of
+this by-law is to protect public and private property from
+acts of vandalism and defacement by prohibiting the
+application of graffiti on such property and by requiring
+property owners to remove publicly visible graffiti from
+their property within a reasonable period of time.
+```
+
+### SECTION 8.5.9.2 DEFINITIONS
+
+```
+For the purposes of this by-law, “graffiti” is intended to
+mean the intentional painting, marking, scratching,
+etching, coloring, tagging, or other defacement of any
+public or private property without the prior written
+consent of the owner of such property.
+```
+
+### SECTION 8.5.9.3 PROHIBITED CONDUCT
+
+```
+The application of graffiti to the real or personal
+property of another is prohibited.
+```
+
+### SECTION 8.5.9.4 REMOVAL OF GRAFFITI
+
+```
+Upon determining that graffiti exists on any private or
+other non-Town owned property and that such graffiti can be
+viewed from a public place within the Town, the Chief of
+Police or his designee may mail or deliver a notice to the
+owner of the property on which the graffiti exists advising
+the owner that the graffiti must be removed within fourteen
+days.
+
+In the case of graffiti on private residential property
+consisting of thirty dwelling units or less, the property
+owner shall, within fourteen days of delivery of the
+notice, either remove the graffiti or submit a written
+request to the Commissioner of Public Works along with a
+release, requesting the Town to enter the property and
+assist in removing the graffiti. Upon receipt of the
+property owner’s written request and release, the
+Commissioner of Public Works or his designee shall
+determine whether the graffiti can be safely removed, and,
+if so, whether it is appropriate to remove it. If the Town
+assists in the removal of such graffiti, the Town shall
+charge the property owner a fee in the amount of the actual
+cost of removal or one hundred dollars, whichever is less,
+provided that the property owner shall reimburse the Town
+for the Town’s actual costs of removing such graffiti from
+any funds forfeited by the offender to the property owner
+under any related criminal or non-criminal enforcement
+action.  Absent any forfeiture of funds to the property
+owner, as stated above, the Town shall not assess more than
+a total of two hundred dollars in fees per property per
+owner in any 12 month period.  If the Commissioner of
+Public Works or his designee determines that the graffiti
+cannot be safely removed or that it is not appropriate for
+the Town to remove it, he shall notify the property owner
+of his determination in writing and the property owner
+shall remove the graffiti within fourteen days of delivery
+of such notice.
+
+In the case of graffiti on commercial property or private
+residential property consisting of more than thirty
+dwelling units, the property owner shall, within fourteen
+days of delivery of the notice, remove the graffiti at his
+own expense.
+
+Notwithstanding any other provisions contained herein, if
+such graffiti is within an Historic District established
+under Section 5.6 of the Town’s By-laws, then any
+guidelines or Rules or Regulations adopted by the
+Preservation Commission pertaining to the removal of
+graffiti shall apply if and to the extent not inconsistent
+with this by-law.
+```
+
+### SECTION 8.5.9.5 ENFORCEMENT
+
+```
+Failure to remove the graffiti or make a written request to
+the Commissioner of Public Works in accordance with the
+requirements of Section 8.5.9.4 within fourteen days of
+delivery of the notice may be deemed a violation of this
+section and shall be dealt with as a non-criminal offense
+in accordance with the provisions of G.L. c. 40, s. 21D and
+Article 10.3 of these By-laws.
+
+Owners who repeatedly violate the provisions of Section
+8.5.9.4 may be prosecuted under the provisions of Article
+10.1 of these By-laws.
+
+Any fee charged by the Town for the cost of graffiti
+removal under section 8.5.9.4 remaining unpaid after sixty
+days of notice of such charge shall be subject to the
+provisions of G.L. c. 40, s. 58.
 ```
