@@ -93,18 +93,14 @@ form prescribed by and made available to candidates by the Town
 Clerk. The reporting periods for the Town Campaign Finance
 Report shall be as indicated in the following table.
 
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
 **Reporting periods for Town Campaign Finance Report**
 
 | Report due by                | Reporting period begins           | Reporting period ends         |
 |------------------------------|-----------------------------------|-------------------------------|
-| 15 days before Town election | Incumbents: January 1 of prior year, or the day after the end of the reporting period of last report filed, whichever period is shorter <br/><br/> Challengers: January 1 of year of Town election | December 31 of prior year  |
+| 15 days before Town election | *Candidates of have previously filed reports:* Day after end of reporting period for last State report filed.<br/>Candidates filing initial reports: Day after previous Town Election | 25 days before Town Election  |
 | 8 days before Town election  | Day after end of reporting period for last report filed | 18 days before Town Election  |
 | 30 days after Town election  | Day after end of reporting period for last report filed | 20 days after Town Election  |
 | January 20 of year after Town election | Day after end of reporting period for last report filed | Last day of year of Town election  |
-
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 The Town Campaign Finance Report shall be substantially in the
 same format and require the same information as that required by
