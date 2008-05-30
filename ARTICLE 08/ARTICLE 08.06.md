@@ -125,10 +125,11 @@ the following conditions:
 
 2. any dog left unattended may be impounded,
 
-3. the person in charge of a dog inside a designated 
-   off leash area must remove any fecal material 
-   deposited by that dog in the designated off leash area, 
-   before taking the dog from the designated off leash area; and
+3. the person in charge of a dog inside a
+   designated off leash area must remove any fecal
+   material deposited by that dog in the designated off
+   leash area, before taking the dog from the
+   designated off leash area; and
 
 4. the person in charge of a dog inside a designated
    off leash area must control the animal so that it
@@ -138,16 +139,9 @@ the following conditions:
    area and the area surrounding the designated off
    leash area.
 
-5. no area adjacent to a school shall be used as an
-   off leash area without approval of the School
-   Committee.
-
-6. the Director of Parks and Open Space or his/her
-   designee shall place a sign, in a conspicuous
-   place, in all designated off leash areas which
-   shall state the authorized hour(s) when such area
-   may be used for such purpose and any other
-   conditions of such use.
+   Italized language in Section 8.6.7(a)above will
+   revert to language existing immediately prior
+   to the amendment on June 30, 2005.
 ```
 
 ### SECTION 8.6.7(b) REMOVAL OF DOG WASTE
@@ -166,6 +160,7 @@ purposes of this section, the “means of removal” shall be
 any container, tool, implement or other device that is
 carried for the purpose of picking up, containing, and
 disposing of dog feces in an appropriate receptacle.
+
 Penalties for violation of this section shall be in
 accordance with the penalties appearing in Section 8.6.9 of
 these By-laws. The provisions of this section shall not
@@ -191,16 +186,11 @@ unlikely to repeat its offense.
 
 ### SECTION 8.6.9 PENALTY
 
-```
-(a)  Violations of this Article, in any one calendar year,
-     shall cause the owner or keeper of such dog to be
-     penalized by a fine of $15.00 for the first such
-     violation, $25.00 for the second and third such
-     violations, and $50.00 for each of any subsequent
-     violations in such year.
-
-(B)  The late filing fee shall be $10.00.
-```
+| &nbsp;           | &nbsp; |
+|------------------|--------|
+| First Violation  | $25.00 |
+| Second Violation | $50.00 |
+| Third Violation  | $75.00 |
 
 ### SECTION 8.6.10 DEFINITIONS
 
@@ -217,9 +207,9 @@ unlikely to repeat its offense.
 ### SECTION 8.6.11 LICENSES
 
 ```
-               Annual Dog License Fee:  $10.00
+               Annual Dog License Fee:  $20.00
     Late Filing Fee for Failure to File Prior to April 1
-                       Late Fee $10.00
+                       Late Fee $20.00
                      Substitute Tag Fee
                     Substitute Tag $2.00
 ```
