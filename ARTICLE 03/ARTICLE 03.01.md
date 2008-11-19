@@ -204,3 +204,23 @@ candidates for Town office; and examining the relationship
 between campaign finance and appointments to Town boards and
 commissions.
 ```
+
+### SECTION 3.1.8 SELECTMEN HEALTH BENEFITS
+
+```
+(A) Eligibility
+
+For purposes of determining the eligibility of a Selectman for health
+benefits pursuant to M.G.L. c. 32B, (i) all payments received by a
+Selectman from the Town in connection with his or her serving as a
+Selectman, including but not limited to receipt of any annual stipend,
+shall be for the reimbursement of expenses and shall not constitute
+“compensation,” regardless of how such payments may otherwise be
+designated or treated by either the Town or such Selectman, and (ii) the
+duties of a Selectman do not require twenty hours or more, regularly, in
+the service of the Town during the regular work week.
+
+(B) Effective Date
+
+This by-law shall take effect on July 1, 2009.
+```
