@@ -22,7 +22,7 @@ Board of Selectmen, Chair of the Park and Recreation
 Commission, Chair of the Housing Authority, Director of
 Public Health, Superintendent of Schools, Head Librarian,
 or their respective representatives, and, in addition,
-eleven citizens reflecting the general composition of
+fifteen citizens reflecting the general composition of
 the citizenry of Brookline. The Citizen members shall be
 appointed by the Board of Selectmen after receiving
 recommendations from public and private agencies concerned
@@ -55,7 +55,7 @@ of the Council. The Selectmen shall appoint a director.
 
 ```
 The Board of Selectmen may appoint from time to time up to
-fifteen (15) non-voting members to the Council on Aging who
+ten (10) non-voting members to the Council on Aging who
 shall be designated Associate Members. One-third of the
 Associate Members shall be appointed initially for a one
 year term; one-third of the Associate Members shall be
