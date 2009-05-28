@@ -42,7 +42,7 @@ the other institutions of the town.
 ### SECTION 3.12.3 DIRECTOR OF PLANNING & COMMUNITY DEVELOPMENT
 
 ```
-(A) Appointment & Term of Office. There shall be a 
+(A) Appointment & Term of Office. There shall be a
 Director of Planning and Community Development, hereinafter
 referred to as the “Director”, appointed by the Board of
 Selectmen in accordance with the provisions in Chapter 270
@@ -51,7 +51,7 @@ for a term of one year, commencing July 1 of each year and
 continuing until the appointment and qualification of a
 successor.
 
-(B) Qualifications. The Director shall be a person 
+(B) Qualifications. The Director shall be a person
 especially fitted by education, training and experience to
 perform the duties and exercise the powers of the office.
 
@@ -73,14 +73,14 @@ Development shall be added when requested by the Town
 Administrator and authorized by the Board of
 Selectmen. The responsibility for providing administrative
 and professional assistance to the Preservation Commission,
-under Section 3.12.11, and the implementation and 
+under Section 3.12.11, and the implementation and
 enforcement of the Historic Districts and Demolition
 By-Laws shall be added to and become part of duties and
-responsibilities of the Division of Planning when requested 
-by the Town Administrator and authorized by the Board of 
-Selectmen. The Director shall appoint and may remove all 
-other personnel within the Department. The Board of 
-Selectmen may appoint the Director to serve as the head of 
+responsibilities of the Division of Planning when requested
+by the Town Administrator and authorized by the Board of
+Selectmen. The Director shall appoint and may remove all
+other personnel within the Department. The Board of
+Selectmen may appoint the Director to serve as the head of
 a division, as defined in Section 3.12.4.
 
 In addition to supervising and directing the effective
@@ -93,49 +93,49 @@ following specific powers and duties:
    personnel between Divisions.
 
 2. to be responsible for the efficient coordination
-   and implementation of the town’s economic 
+   and implementation of the town’s economic
    development, housing, open space, planning and
-   preservation programs, and the administration and 
-   implementation of the town’s demolition, grants 
+   preservation programs, and the administration and
+   implementation of the town’s demolition, grants
    and aid and historic districts decisions and
    policies.
 
 3. to advise the Town Administrator and Board of
    Selectmen on all matters that are within the
-   scope of the Department’s activities 
+   scope of the Department’s activities
    and functions.
 
 4. to be responsible for the preparation of the
-   Department’s annual budget request and town 
-   report, for all expenditures and receipts by the 
-   Department and for the administration of the 
-   town’s personnel rules and orders within the 
+   Department’s annual budget request and town
+   report, for all expenditures and receipts by the
+   Department and for the administration of the
+   town’s personnel rules and orders within the
    Department.
 
 5. to provide administrative and professional
    assistance to the Economic Development Advisory
    Board.
 
-6. to provide administrative and professional 
+6. to provide administrative and professional
    assistance to the Housing Advisory Board.
 
-7. to provide administrative and professional 
+7. to provide administrative and professional
    assistance to the Planning Board.
 
-8. to provide administrative and professional 
+8. to provide administrative and professional
    assistance to the Preservation Commission.
 
-9. to provide administrative and professional 
+9. to provide administrative and professional
    assistance to the Board of Appeals.
 
-10. to provide the town with and, from time to time, 
-    amend Comprehensive Plans for land use, public 
+10. to provide the town with and, from time to time,
+    amend Comprehensive Plans for land use, public
     and private transportation and parking, open
-    space, recreation, urban renewal, 
-    telecommunications and utility services, economic 
-    development, housing, historic preservation and 
-    also for the future development and preservation 
-    of town resources consistent with its physical, 
+    space, recreation, urban renewal,
+    telecommunications and utility services, economic
+    development, housing, historic preservation and
+    also for the future development and preservation
+    of town resources consistent with its physical,
     social and economic requirements and the health,
     safety and welfare of its inhabitants.
 
@@ -148,14 +148,14 @@ following specific powers and duties:
 
 13. to review and amend, when appropriate, rules and
     regulations and procedures relevant to the proper
-    operation of the Department and the 
+    operation of the Department and the
     implementation of Comprehensive Plans.
 
-14. to develop action standards, notice and hearing 
-    guidelines and decision filing procedures to 
-    ensure that notice, hearing, and filing 
-    requirements for the Department, the Divisions 
-    and the boards and commissions that they service 
+14. to develop action standards, notice and hearing
+    guidelines and decision filing procedures to
+    ensure that notice, hearing, and filing
+    requirements for the Department, the Divisions
+    and the boards and commissions that they service
     are satisfied.
 
 15. to delegate the implementation of any one or more
@@ -178,8 +178,8 @@ following specific powers and duties:
 19. to supervise and evaluate all Assistant Directors
     in the Department.
 
-20. to provide planning and community development 
-    services and programs to the residents, the 
+20. to provide planning and community development
+    services and programs to the residents, the
     business community, the non-profit and the other
     institutions of the town.
 
@@ -204,13 +204,13 @@ Board of Selectmen, upon the recommendation of the Town
 Administrator. Each Division shall be under the general
 management and control of an Assistant Director. The
 Assistant Directors shall be subject to the authority and
-direction of the Director. They shall render reports to the 
-Director on a regular basis, including in such reports a 
-summary of current activities, a list of both current and 
+direction of the Director. They shall render reports to the
+Director on a regular basis, including in such reports a
+summary of current activities, a list of both current and
 long- range issues being reviewed or worked on by the
-Division and a summary of the objectives and programs being 
-implemented by the Division. Each Division shall  perform 
-the duties prescribed by law, the town’s By-Laws and 
+Division and a summary of the objectives and programs being
+implemented by the Division. Each Division shall  perform
+the duties prescribed by law, the town’s By-Laws and
 assigned to it by the Director.
 ```
 
@@ -224,11 +224,11 @@ public and private agencies and committees that have
 jurisdiction over the use or regulation of real property
 within the town. Municipal planning shall include the
 creation, the review, the revision and the implementation
-of Comprehensive Plans for open space, land use, for public 
+of Comprehensive Plans for open space, land use, for public
 and private transportation and parking, for
 telecommunications and utility services, for recreation,
 for the utilization of town resources, particularly with
-respect to housing, business and commercial development and 
+respect to housing, business and commercial development and
 redevelopment, and for the careful study, and, when
 necessary, the preparation of plans of the resources,
 possibilities and needs of the town. The Division shall
@@ -245,7 +245,7 @@ serve as the Secretary of the Planning Board and shall
 assist the Planning Board with the performance and
 discharge of the following duties:
 
-A. Creation, review and amendment of Comprehensive 
+A. Creation, review and amendment of Comprehensive
 Plans in accordance with G.L.c. 41, §81D.
 
 B. Review, amendment and implementation of
@@ -257,29 +257,34 @@ G.L.c. 121A.
 D. Review and report on matters pending before the
 Board of Appeals.
 
-E. Review and report on matters specified in or when 
+E. Review and report on matters specified in or when
 required under the Zoning By-Law.
 
-F. Conducting of hearings and the filing of reports, 
-with recommendations, concerning proposed 
+F. Conducting of hearings and the filing of reports,
+with recommendations, concerning proposed
 amendments to the Zoning By-Law.
 
-G. Coordinate and facilitate open space planning and 
-preservation within the town and among town 
+G. Coordinate and facilitate open space planning and
+preservation within the town and among town
 officers and committees.
 ```
 
 ### SECTION 3.12.6 PLANNING BOARD
 
 ```
-The Board of Selectmen shall appoint five residents to
+The Board of Selectmen shall appoint seven residents to
 serve on the Planning Board for five year staggered terms.
+At least one of the appointees must be qualified for such
+appointment by virtue or relevant and significant
+experience or training in the field of environmental or
+urban planning.
+
 The Planning Board is established under G.L.c. 41, §81A,
-and shall perform and discharge all of the statutory powers 
-and duties required by law, including those set forth in 
-The Zoning Act, G.L.c. 40A, in the Subdivision Control Act 
-and other relevant sections in G.L.c. 41, Sections 81A to 
-81GG, inclusive, in Chapter 270 of the Acts of 1985 
+and shall perform and discharge all of the statutory powers
+and duties required by law, including those set forth in
+The Zoning Act, G.L.c. 40A, in the Subdivision Control Act
+and other relevant sections in G.L.c. 41, Sections 81A to
+81GG, inclusive, in Chapter 270 of the Acts of 1985
 and in G.L.c. 41.
 ```
 
@@ -287,15 +292,15 @@ and in G.L.c. 41.
 
 ```
 The Division of Housing shall initiate modifications and
-amendments of housing policies for the town, subject to the 
-approval thereof by the Housing Advisory Board (HAB), the 
-Director and the Board of Selectmen, and shall assist in 
-the implementation of such policies. In housing matters, 
-the Division shall maintain an effective and productive 
-relationship among policy, programs and development, 
-including affordable housing development under the Town’s 
-inclusionary housing provisions in the Zoning By-Law. The 
-Division shall provide administrative and professional 
+amendments of housing policies for the town, subject to the
+approval thereof by the Housing Advisory Board (HAB), the
+Director and the Board of Selectmen, and shall assist in
+the implementation of such policies. In housing matters,
+the Division shall maintain an effective and productive
+relationship among policy, programs and development,
+including affordable housing development under the Town’s
+inclusionary housing provisions in the Zoning By-Law. The
+Division shall provide administrative and professional
 assistance to HAB.
 ```
 
@@ -359,11 +364,11 @@ Article 5.6.4 in the By-Laws, with administrative and
 professional assistance with regard to the performance and
 discharge of the following duties:
 
-A. Promoting the educational, cultural, physical, 
-economic and general welfare of the town through 
-the preservation and protection of its historical 
+A. Promoting the educational, cultural, physical,
+economic and general welfare of the town through
+the preservation and protection of its historical
 assets.
 
-B. Implementing and enforcing the Historic Districts 
+B. Implementing and enforcing the Historic Districts
 and Demolition By-Laws.
 ```
