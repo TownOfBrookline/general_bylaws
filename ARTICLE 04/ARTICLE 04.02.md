@@ -36,7 +36,9 @@ Annual Town Meeting, to the residence of every elected and
 appointed Town Meeting Member,  member of the Advisory
 Committee, and to the residence of every resident, real
 estate owner and town employee who requests a copy in
-writing.
+writing.  In lieu of the preceding mailing requirement, the 
+Board of Selectmen may, at the request of any person listed 
+above send the report(s) electronically.
 ```
 
 ### SECTION 4.2.5 ILLUSTRATIONS

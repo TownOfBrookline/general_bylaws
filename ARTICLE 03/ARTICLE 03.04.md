@@ -54,4 +54,8 @@ Copies of each Annual Town Report shall be kept permanently in the
 office of the Town Clerk and for at least five years in the Public
 Library and every Branch thereof, available for inspection by all
 interested persons.
+
+In lieu of the mailing requirement in paragraph 1 above,
+the Board of Selectmen may, at the request of any person
+listed above send the report electronically.
 ```

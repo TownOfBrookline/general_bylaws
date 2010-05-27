@@ -20,6 +20,10 @@ report of its doings, and the Town Clerk shall cause one
 copy of the same to be printed and mailed out with the
 combined reports called for in Section 2.5.2 of this
 Article.
+
+In lieu of the mailing requirement in paragraph 1 above,
+the Town Clerk may, at the request of any person listed
+above send the report(s) electronically.
 ```
 
 ### SECTION 2.5.2 COMBINED REPORTS
