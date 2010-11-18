@@ -101,8 +101,8 @@ i. RESOURCE AREAS - Land under lakes, ponds, rivers
    or streams; any bank, marsh, wet meadow, bog or
    swamp bordering on any lake, pond, river or
    stream; land subject to flooding bordering on any
-   lake, pond, river or stream;
-   isolated vegetated wetlands;
+   lake, pond, river or stream; isolated land
+   subject to flooding; isolated vegetated wetlands;
    riverfront areas; and vernal pools.
 
 j. RESOURCE AREA VALUES – Without limitation, public
