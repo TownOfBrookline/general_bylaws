@@ -69,7 +69,15 @@ buildings and places.
      which accompanies and is hereby declared to be part of
      this By-law.
 
-(f)  Other Historic Districts
+(f)  Lawrence Local Historic District
+     There is hereby established an Historic District, to
+     be entitled the “Lawrence Historic District”,
+     the boundaries of which shall be shown on the map entitled
+     “Lawrence Historic District”, a copy of which is on
+     file with the Town Clerk’s office, which accompanies
+     and is hereby declared to be part of this By-law.
+
+(g)  Other Historic Districts
      Other Historic Districts within the Town may be
      established from time to time in accordance with the
      procedures set forth in Chapter 40C of the
@@ -307,10 +315,11 @@ from time to time, by the Board of Selectmen.
 
         PLANS OF THE HISTORICAL DISTRICTS ARE ON FILE
          WITH THE BROOKLINE PRESERVATION COMMISSION
-          COPIES ARE ON THE FOLLOWING FIVE PAGES
+          COPIES ARE ON THE FOLLOWING SIX PAGES
 ```
 ![](images/media/pg01_cottage_farm.png)
 ![](images/media/pg02_pill_hill.png)
 ![](images/media/pg03_graffam_mckay.png)
 ![](images/media/pg04_chestnut_hill.png)
 ![](images/media/pg05_harvard_avenue.png)
+![](images/media/pg06_lawrence.png)
