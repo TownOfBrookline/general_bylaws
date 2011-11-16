@@ -196,6 +196,159 @@ the historic or architectural aspects, scale or massing,
 neighborhood or subdivision plan or layout, circulation
 patterns, or green space, open space, landscape, vegetation
 or viewshed character of the NCD.
+
+d.  Specific districts and guidelines.
+
+1. There shall be a Neighborhood Conservation District, to
+be entitled the “Hancock Village Neighborhood Conservation
+District”, the boundaries of which are shown on the map
+entitled “Hancock Village Neighborhood Conservation
+District”, a copy of which is on file with the Town Clerk’s
+office, which is hereby declared to be part of this By-law.
+
+The first and largest garden city apartment complex in
+Brookline, Hancock Village (1946-1949) is significant as a
+far-sighted, historically important collaboration between
+the town of Brookline and the Boston-based John Hancock
+Mutual Life Insurance Company to provide both employment
+and housing for returning World War II veterans. The
+development, which straddles the Brookline-Boston line,
+consists of 789 two-story attached townhouses, most of
+which are located in Brookline. In consideration of a
+zoning change by the Town which allowed the development to
+proceed, the development was designed and built as a high-
+quality development in the “garden village” style, meaning
+that each dwelling unit had a separate entrance to the
+exterior; the units were town-homes of two stories with
+peaked roofs; there was substantial open space; and there
+was a “greenbelt” serving as a buffer between the
+development and adjacent single-family homes. Such
+elements were embodied in commitments made on behalf of
+John Hancock Insurance by its president Paul F. Clark,
+including an agreement with the Town of Brookline executed
+March 11, 1946. The landscape design was by Olmsted
+Associates, a Brookline firm with international experience
+and reputation. Significantly, Hancock Village remains the
+quality housing development conceived in those commitments
+and original design, and therefore remains internally
+coherent in design and compatible in scale, siting and
+impact with the adjacent neighborhood of single-family
+homes and with the D. Blakely Hoar Wildlife Sanctuary,
+especially due to the retention in Hancock Village of open
+lawns, courtyards and common areas, pedestrian paths,
+consistent town-house style buildings of modest scale,
+unobstructed sky planes, buffer zones, and significant
+landscape features such as puddingstone outcrops.
+Retaining integrity of location, design, setting,
+materials, workmanship, feeling, and association, the
+Hancock Village Neighborhood has as such remained an
+important historic property in Brookline and a compatible
+part of the fabric of the community and the adjacent
+neighborhood.
+
+The Hancock Village Neighborhood Conservation District
+shall be governed by the following design guidelines. Any
+further development shall be compatible with the existing
+development of the district and its relationship to the
+adjacent neighborhood:
+
+i. Architectural style and character. The architectural
+design and building materials of any proposed
+Reviewable Project shall be compatible with the
+existing garden-village town-house architecture within
+the district, with, for example, each dwelling unit
+having a separate entrance to the exterior.
+
+ii. Building size, height and massing. The size,
+height and massing of a building or other structure
+which is part of any proposed Reviewable Project shall
+be compatible with existing buildings and other
+structures within the district and the adjacent
+neighborhood, and the elements considered shall
+include but not be limited to the volume and
+dimensions of any buildings or other structure; the
+scale, clustering and massing of any building or other
+structure in relation to its surroundings, including
+existing buildings and other structures and nearby
+landscape and other open spaces; and compatibility of
+design and materials with existing buildings and other
+structures. Compatible building size, height and
+massing shall include, not be limited to limited to:
+
+a. No building over 2 1⁄2 stories in height, measured
+   from the highest point of the finished grade of
+   each unit, shall be constructed.
+
+b. In relation to any abutting single-family, detached
+   homes, any new single-family homes shall be
+   similarly oriented, have similar rear yard depths,
+   and similar distance between dwelling units.
+
+iii. Façade. The number, size and location and design
+of windows, doors and solid elements, trim work,
+piers, pilasters, soffits, cornices, decks, porches
+and canopies, and the design of window and door
+details, including trim, muntins, mullion and sills,
+need not replicate but shall be compatible with the
+existing buildings within the district. Alterations
+necessary for handicap accessibility shall be
+compatible to the extent reasonably feasible.
+
+iv. Roof treatment. The shape, pitch, style, and
+type of surfacing of roof areas shall be compatible
+with those of buildings within the district.
+Including buildings in any Reviewable Project,
+buildings with flat or approximately flat roofs will
+not exceed 25% of the total number of buildings in the
+entire NCD.
+
+v. Streetscape, topography and landscape. Any proposed
+Reviewable Project (including demolition, removal, new
+construction or other alteration) shall maintain the
+spatial organization of the district and shall not
+have a significant negative impact on historic
+architectural or landscape elements, including
+structures, open spaces, green spaces, topography,
+walls and fences, circulation patterns including
+pedestrian circulation separated from vehicular
+traffic, viewsheds, park areas, play areas, courtyards
+and other landscaped areas previously accessible and
+usable in common, significant trees as defined in this
+by-law, and buffer areas. The existing spatial
+organization and land patterns of the landscape shall
+be preserved, including the curvilinear circulation
+patterns and views from roads, sidewalks, pathways and
+buildings. Significant negative impacts shall
+include, but not be limited to:
+
+a. Removal or alteration of rock outcroppings greater
+   than 200 square feet in contiguous area;
+
+b. Alteration of existing grades by more than three
+   feet in vertical height;
+
+c. Removal of existing pedestrian paths that separate
+          pedestrians from vehicular traffic;
+
+d. Addition of new impervious surfaces within 100 feet
+   of abutting properties, including the Hoar
+   Sanctuary or single-family homes; and
+
+e. Loss of open space through building coverage
+   exceeding 20% of the area of the district or
+   through loss of the “greenbelt” now serving as a
+   buffer to the abutting single-family detached homes.
+
+Nothing in this Section 5.10.3.d.1 shall be construed as
+repealing or modifying any existing by-law or regulation of
+the Town, but it shall be in addition thereto.  To the extent
+this Section 5.10.3.d.1 imposes greater restrictions upon a
+Reviewable Project than other by-laws, regulations or
+statutes, such greater restrictions shall prevail.  The
+provisions of this Section 5.10.3.d.1 shall be deemed to be
+severable. If any of its provisions, subsections, sentences
+or clauses shall be held to be invalid or unconstitutional,
+the remainder shall continue to be in full force and effect.
 ```
 
 ### 5.10.4. NEIGHBORHOOD CONSERVATION DISTRICT OVERSIGHT
