@@ -1,6 +1,18 @@
 ## ARTICLE 8.23<br/>TOBACCO CONTROL
 
-### SECTION 8.23.1 DEFINITIONS
+### SECTION 8.23.1 PURPOSE
+
+```
+In order to protect the health, safety and welfare of the
+inhabitants of the Town of Brookline, including but not
+limited to its younger population, by restricting the sale
+of tobacco products known to be
+related to various and serious health conditions such as
+cancer, this by-law shall limit and restrict the sale of
+Tobacco Products within the Town of Brookline.
+```
+
+### SECTION 8.23. DEFINITIONS
 
 ```
 a.   Tobacco - Cigarettes, cigars, snuff or tobacco in
@@ -45,9 +57,35 @@ j.   Bar/Lounge - An area within a food service
      guests on the premises, and in which the
      consumption of food is only incidental to the
      consumption of such beverages.
+
+k.   Health Care Institution -  An individual,
+     partnership, association, corporation or trust or
+     any person or group of persons that provides
+     health care services and employs health care
+     providers licensed, or subject to licensing, by
+     the Massachusetts Department of Health  under
+     M.G.L. c. 112. Health care institution includes
+     hospitals, clinics, health centers,
+     pharmacies, drug stores and doctors’ and
+     dentists’ offices.
+
+l.   Entity - any single individual, group of
+     individuals, corporation, partnership,
+     institution, employer, association, firm or any
+     other legal entity whether public or private.
+
+m.   Educational Institution - any public or private
+     college, normal school, professional school,
+     scientific or technical institution, university
+     or other institution furnishing a program of
+     higher education.
+
+n.   Retail Establishment - any store that sells goods
+     or articles of personal services to the
+     public.
 ```
 
-### SECTION 8.23.2 REGULATED CONDUCT
+### SECTION 8.23.3 REGULATED CONDUCT
 
 ```
 a.   Food Service Establishments
@@ -270,7 +308,7 @@ c.   Workplaces
           this section (Workplaces).
 ```
 
-### SECTION 8.23.3 POSTING REQUIREMENTS
+### SECTION 8.23.4 POSTING REQUIREMENTS
 
 ```
 a.   Every person having control of a premises where
@@ -294,11 +332,11 @@ b.   Food service establishments in which smoking is
      environmental tobacco smoke.
 ```
 
-### SECTION 8.23.4 SALE AND DISTRIBUTION OF TOBACCO PRODUCTS
+### SECTION 8.23.5 SALE AND DISTRIBUTION OF TOBACCO PRODUCTS
 
 ```
-a.   Permit - No person, firm, corporation,
-     establishment or agency shall sell tobacco products within
+a.   Permit - No Entity otherwise permitted to sell
+     tobacco products shall sell such products within
      the Town of Brookline without a valid tobacco
      sales permit issued by the Director of Public
      Health. Permits must be posted in a manner
@@ -332,9 +370,27 @@ e.   Advertising/Promotion - From and after January 1,
      accessible to the public, shall be within twenty
      feet and the unobstructed view of a check-out or
      cash register location.
+
+f.   Prohibition Against the Sale of Tobacco Products
+     by Health Care Institutions - No health care
+     institution located in the Town of Brookline
+     shall sell or cause to be sold tobacco  products.
+     Additionally, no retail establishment that
+     operates or has a health care institution within
+     it, such as a pharmacy or drug store, shall sell
+     or cause to be sold tobacco products.
+
+g.   Prohibition Against the Sale of Tobacco Products
+     by Educational Institutions -No    educational
+     institution located in the Town of Brookline
+     shall sell or cause to be sold     tobacco
+     products. This includes all educational
+     institutions as well as any retail
+     establishments that operate on the property of an
+     educational institution.
 ```
 
-### SECTION 8.23.5 VIOLATIONS AND PENALTIES
+### SECTION 8.23.6 VIOLATIONS AND PENALTIES
 
 ```
 a.   Any person who knowingly violates any provision
@@ -350,11 +406,9 @@ b.   Any person having control of any premises or
      shall be punished by a fine of not more than $100
      for each offense.
 
-c.   Persons, firms, corporations or agencies selling
-     tobacco products to minors or selling tobacco
-     products without a Tobacco Sales Permit shall be
-     punished by a fine of not more than $200 per day
-     for each day of such violation.
+c.   Any entity violating any other section of this
+     by-law shall receive a fine of three hundred
+     dollars ($300.00) for each offense.
 
 d.   Employees who violate any provision of Section
      8.23.2(c) shall be punished by a fine of not more
@@ -363,9 +417,21 @@ d.   Employees who violate any provision of Section
 e.   Violations of this by-law may be dealt with in a
      non-criminal manner as provided in PART X of the
      Town By-Laws.
+
+f.   Each calendar day an entity operates in
+     violation of any provision of this regulation
+     shall be deemed a separate violation.
+
+g.   No provision, clause or sentence of this section
+     of this regulation shall be interpreted as
+     prohibiting the Brookline Health Department or a
+     Town department or Board from suspending, or
+     revoking any license or permit issued by and
+     within the jurisdiction of such departments or
+     Board for repeated violations of this regulation.
 ```
 
-### SECTION 8.23.6 SEVERABILITY
+### SECTION 8.23.7 SEVERABILITY
 
 ```
 Each provision of this by-law shall be construed as
