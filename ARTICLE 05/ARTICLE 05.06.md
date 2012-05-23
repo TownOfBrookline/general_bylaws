@@ -77,7 +77,16 @@ buildings and places.
      file with the Town Clerk’s office, which accompanies
      and is hereby declared to be part of this By-law.
 
-(g)  Other Historic Districts
+(g)  Wild-Sargent Local Historic District
+     There is  hereby established an Historic District, to
+     be entitled the ‘Wild-Sargent Local Historic
+     District,’ the boundaries of which shall be shown on
+     the map entitled ‘Wild-Sargent Local Historic
+     District,’ a copy of which is on file with the Town
+     Clerk's office, which accompanies and is hereby
+     declared to be part of this By-law.
+
+(h)  Other Historic Districts
      Other Historic Districts within the Town may be
      established from time to time in accordance with the
      procedures set forth in Chapter 40C of the
@@ -315,7 +324,7 @@ from time to time, by the Board of Selectmen.
 
         PLANS OF THE HISTORICAL DISTRICTS ARE ON FILE
          WITH THE BROOKLINE PRESERVATION COMMISSION
-          COPIES ARE ON THE FOLLOWING SIX PAGES
+          COPIES ARE ON THE FOLLOWING SEVEN PAGES
 ```
 ![](images/media/pg01_cottage_farm.png)
 ![](images/media/pg02_pill_hill.png)
