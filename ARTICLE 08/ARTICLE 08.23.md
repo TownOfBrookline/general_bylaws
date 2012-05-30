@@ -27,7 +27,7 @@ c.   Tobacco Vending Machine - A mechanical or
      products by self service, with or without
      assistance by a clerk or operator.
 
-d.   Minor - A person under eighteen years of age.
+d.   Minor - A person under nineteen years of age.
 
 e.   Employee - A person who performs work or services
      for wages or other consideration.
