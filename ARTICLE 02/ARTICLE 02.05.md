@@ -32,13 +32,19 @@ above send the report(s) electronically.
 The explanation and relevant data submitted by the
 petitioners for a petition article shall be included,
 together with article, in the combined reports.  The Board
-of Selectmen and the Advisory Committee shall prepare written
+of Selectmen and the Advisory Committee (or in the
+alternative to the full Advisory Committee a subcommittee
+of the Advisory Committee) each shall hold at least one
+duly noticed public hearing prior to a final vote of the
+Board of Selectmen or the Advisory Committee, as the case
+may be, on any article in the Warrant. The Board of
+Selectmen and the Advisory Committee shall prepare written
 reports, stating their recommendations and the reasons
 therefor, for all articles in the Warrant for a Town
 Meeting.  The reports shall be included in the combined
 reports to be delivered or mailed as follows:
 
-The Town Clerk shall cause one copy of the combined
+The Board of Selectmen shall cause one copy of the combined
 reports to be delivered or mailed not later than the
 seventh day prior to each special Town Meeting and not
 later than the fifteenth day prior to the start of each
