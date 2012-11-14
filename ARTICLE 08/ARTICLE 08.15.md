@@ -141,6 +141,7 @@ snowmobiles, dune buggies, or racing vehicles, but not including motorcycles.
 ```
 
 ### SECTION 8.15.4 SOUND LEVEL EXAMPLES
+
 ```
 The following are examples of approximate decibel readings of every day sounds:
 ```
@@ -415,13 +416,7 @@ procedures defined in the appropriate guidelines issued by the Board of
 Selectmen, or designee.
 ```
 
-### SECTION 8.15.9 APPEALS
-
-```
-*[Disapproved and deleted by the Attorney General on May 14, 2009.]*
-```
-
-### SECTION 8.15.10 PENALTIES
+### SECTION 8.15.9 PENALTIES
 
 ```
 (a) Any person who violates any provision of this By-law shall be subject to a fine
@@ -448,13 +443,11 @@ successive violations at least 14 days after the notification of the record owne
 a one-year period, then the record owner of the property shall also be subject to the fine
 schedule delineated in Section (a).
 
-(c) *[Disapproved and deleted by the Attorney General on May 14, 2009.]*
-
-(d) The Health, Building, Police and Public Works Departments shall have enforcement
+(c) The Health, Building, Police and Public Works Departments shall have enforcement
 authority for the By-law. To report a violation, contact the appropriate department.
 ```
 
-### SECTION 8.15.11 SEVERABILITY
+### SECTION 8.15.10 SEVERABILITY
 
 ```
 If any provisions of this article or the application of such provision to any person or
