@@ -3,9 +3,8 @@
 ### SECTION 3.14.1 ESTABLISHMENT
 
 ```
-There is hereby established a Division of Human Relations-
-Youth Resources, consisting of a Human Relations-Youth
-Resources Commission.  The Human Relations-Youth Resources
+There is hereby established a Human Relations-Youth
+Resources Commission. The Human Relations-Youth Resources
 Commission shall consist of fifteen (15) citizens of the
 Town.  Members of said Commission shall be appointed by the
 Selectmen and shall hold office for a period of three (3)
@@ -26,45 +25,15 @@ time when, in their judgment, the public interest so
 requires.
 ```
 
-### SECTION 3.14.2 DIRECTOR OF HUMAN RELATIONS-YOUTH RESOURCES
+### SECTION 3.14.2 STAFF SUPPORT TO HUMAN RELATIONS-YOUTH RESOURCES COMMISSION
 
 ```
-There shall be a Director of Human Relations-Youth
-Resources who shall be the administrative head of a
-department to assist the Commission in the administration
-of its functions and policies under this Article.  The
-Selectmen shall appoint and may remove, when in their
-judgment the public interest so requires, and may fix the
-compensation of said Director.  The Selectmen shall have
-the authority to create subordinate staff positions in said
-department and the Director, with the approval of the
-Selectmen, may appoint persons to fill these positions, and
-he may remove them with the approval of the Selectmen.  The
-Director shall have full charge and supervision of the work
-of the department and its personnel.  He shall, in the
-performance of his duties and responsibilities, be directly
-responsible to and subject to the direction, authority and
-control of the Board of Selectmen.  The Director shall
-perform such duties and responsibilities as may be assigned
-to him from time to time by the Board of Selectmen in
-carrying out the policies of the Commission, including the
-obtaining of compliance by contractors of the
-nondiscrimination provisions in Town contracts.  The
-Director shall act as technical advisor to the Board of
-Selectmen, the Commission and other Town agencies or
-officials on Human Relations-Youth Resources matters, with
-especial reference to nondiscrimination, and publish and
-distribute such copies of reports as the Board of Selectmen
-may authorize in relation thereto.  The Director shall be
-responsible for keeping the agenda for Commission meetings,
-the records, files, indexes, correspondence, and other data
-relating to the functioning of the Commission.  In addition
-the Director shall cooperate with the Commission in the
-fulfillment of the Commission's responsibilities under this
-Article, provide full staff services to the Commission, and
-shall carry out such assignments as the Commission may
-request from time to time with the consent of the Board of
-Selectmen.
+The Board of Selectmen, upon the recommendation of the Town
+Administrator shall appoint professional and/or
+administrative staff and other resources as may be
+necessary from time to time to assist the Commission in the
+administration of its functions and policies under this
+Article.
 ```
 
 ### SECTION 3.14.3 POWERS AND DUTIES OF THE COMMISSION
@@ -219,4 +188,16 @@ recommendations.
 The Commission shall submit an Annual Report to the Board
 of Selectmen detailing its activities; such report will be
 published in the annual report of the Town.
+```
+
+### SECTION 3.14.7 SUNSET PROVISION WITH RESPECT TO CERTAIN AMENDMENTS
+
+```
+The amendments to Section 3.14 of the General By-Laws as
+approved at the May 28, 2013 Annual Town Meeting under
+Article 9 are effective only until such time as Town
+Meeting takes action with respect thereto based upon the
+final report and recommendation of the Committee on
+Diversity, Equal Employment Opportunities and Affirmative
+Action, and any such action becomes effective.
 ```
