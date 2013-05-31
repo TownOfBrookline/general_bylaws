@@ -6,33 +6,33 @@
 The following terms shall be defined, for the purposes of
 this By-law, as follows:
 
-Person - Any individual, corporation, society, association,
+_Person_ - Any individual, corporation, society, association,
 partnership, organization or other entity circulating
 printed matter;
 
-Printed Matter - Any newspaper, directory, handbill,
+_Printed Matter_ - Any newspaper, directory, handbill,
 advertising matter, magazine, circular, flyer, book,
 pamphlet, catalogue or other publication;
 
-Newsrack - Any container, box, bin, vending machine,
+_Newsrack_ - Any container, box, bin, vending machine,
 display, stand, rack or other device used for the purpose
 of dispensing printed matter with or without cost to the
 consumer;
 
-Commissioner - The Commissioner of Public Works of the Town
+_Commissioner_ - The Commissioner of Public Works of the Town
 of Brookline or his designee;
 
-Public Way - The entire width between property lines of
+_Public Way_ - The entire width between property lines of
 every street or highway that is open to the public for
 purposes of travel;
 
-Sidewalk - That portion of a public way that is set aside
+_Sidewalk_ - That portion of a public way that is set aside
 for pedestrian travel;
 
-Roadway - That portion of a public way that is intended for
+_Roadway_ - That portion of a public way that is intended for
 the use of motor vehicles;
 
-Crosswalk Curb Return - The point at which the crosswalk
+_Crosswalk Curb Return_ - The point at which the crosswalk
 pavement markings meet the sidewalk.
 ```
 
@@ -47,13 +47,14 @@ pavement markings meet the sidewalk.
      apply for a permit from the Commissioner in accordance
      with the provisions of this By-law.
 
-(b)  Any person who, on or after the effective date of this
-     By-law, places a newsrack or causes a newsrack to be
-     placed on a sidewalk or public way in the town, shall,
-     within fourteen (14) days after locating said newsrack
-     on a sidewalk or public way, apply for a permit from
-     the Commissioner in accordance with the provisions of
-     this By-law.
+(b) No person, on or after the effective date of this By-
+    law, shall place a newsrack or cause a newsrack to be
+    placed on a sidewalk or public way in the town without
+    a valid permit received from the Commissioner in
+    accordance with the provisions of this By-law.  A
+    newsrack on a sidewalk or public way without such
+    permit affixed to it may be removed immediately by the
+    Commissioner.
 
 (c)  The Commissioner shall provide a permit application
      form which shall be completed by every person who
@@ -66,8 +67,9 @@ pavement markings meet the sidewalk.
                whether or not it is attached to town-owned
                property;
 
-          (2)  the name, address and telephone number of
-               the owner of each newsrack and the name,
+          (2)  the name, address, email address  and
+               telephone number of the owner of each
+               newsrack and the name, address, email
                address and telephone number of a person
                responsible for the maintenance and
                operation of the newsrack who may be
@@ -82,9 +84,16 @@ pavement markings meet the sidewalk.
      newsracks owned by that person and located on a public
      way or sidewalk in the town shall be listed.
 
-(e)  Permits shall be valid for a period of one year from
-     the date of issue and, upon application, may be
-     renewed by the Commissioner on an annual basis.
+(e)  Permits shall be valid only during the calendar year
+     for which they are issued and, upon application, may
+     be renewed by the Commissioner on an annual basis.
+     Renewal applications must be received by the
+     Commissioner with all required fees and payment of any
+     outstanding fees and fines prior to December 1st to
+     ensure timely renewal for the following calendar year.
+     The owner shall ensure that newsracks are in
+     compliance with this By-law at the time of permit
+     issuance and any renewal.
 
 (f)  Each person granted a permit or renewal thereof under
      this By-law shall thereafter give notice to the
@@ -106,7 +115,11 @@ pavement markings meet the sidewalk.
      annual renewal applications and amendment applications
      provided that such fees do not exceed the actual cost
      of administering this By-law.  Newsracks owned by the
-     Town of Brookline shall be exempt from fees.
+     Town of Brookline shall be exempt from fees.  No permit
+     shall be issued, renewed or amended without payment of
+     the required fees and any outstanding fees and fines.
+     No permit shall be affixed to any newsrack that is not
+     in compliance with this By-law.
 
 (h)  Within 14 days after receipt of an application for a
      permit or renewal of a permit under this By-law, the
@@ -136,10 +149,6 @@ pavement markings meet the sidewalk.
      not been issued by the Board within 14 days after
      hearing, the Commissioner's decision shall be deemed
      affirmed.
-
-(l)  During the pendency of an appeal, the newsrack(s) may
-     remain in place subject to the removal provisions in
-     section 7.6.4(b), Parts (3) and (4).
 ```
 
 ### SECTION 7.6.3 STANDARDS FOR PLACEMENT OF NEWSRACKS
@@ -217,6 +226,9 @@ pavement markings meet the sidewalk.
           (17) in a manner that violates any provision of
                state or federal law.
 
+          (18) in a manner such that the town permit is not
+               visible from the public way.
+
 (b)  Newsracks may be secured to one another provided that
      they are no more than six inches apart and provided
      that the newsracks are aligned in a row that is
@@ -224,9 +236,9 @@ pavement markings meet the sidewalk.
      newsracks shall be installed parallel to the nearest
      curb line.  Newsracks may be clustered back-to-back to
      form two rows provided that the rows are parallel to
-     the nearest curb line and further provided that the
-     newsracks otherwise comply with the provisions of this
-     By-law.
+     the nearest curb line, that the town permit is visible
+     from the public way and that the newsracks otherwise
+     comply with the provisions of this By-law.
 
 (c)  Newsracks may only be attached or secured to
      town-owned property with the  express permission of
@@ -236,17 +248,42 @@ pavement markings meet the sidewalk.
 
 (d)  Newsracks shall not exceed the following dimensional
      requirements: Height: 4 1/2 feet from the ground;
-     Width: 2 feet; Length: 2 feet.  Newsracks shall be
+     Width: 2 feet; Length: 2 feet. Newsracks shall be
      contracted and maintained so that they do not
      constitute a hazard or safety problem for travelers
-     and others using the sidewalks and public ways.  They
+     and others using the sidewalks and public ways. They
+     shall be removed if their use is discontinued and
      shall be maintained in good repair and clean and safe
-     condition and shall be removed if their use is
-     discontinued.
+     condition such that each newsrack:
+
+     1. is regularly serviced;
+
+     2. is kept free of accumulations of outdated printed
+        materials, trash, rubbish or debris;
+
+     3. is kept free of stickers (other than the town
+        permit) and graffiti, with graffiti being
+        entirely removed or, in the case of graffiti on
+        an opaque surface, covered with paint matching
+        the color of the surface on which the graffiti
+        has been placed;
+
+     4. is kept reasonably free of chipped, faded,
+        peeling, or cracked paint and of rust or
+        corrosion;
+
+     5. is maintained so that its clear glass or plastic
+        parts, if any, through which the printed material
+        being dispensed is visible are not broken and are
+        kept free of stickers, graffiti, tears, peeling
+        and/or fading;
+
+     6. is maintained so that its structural parts are
+        not broken or misshapen.
 
 (e)  No newsrack shall bear any advertising other than that
      directly relating to the printed matter dispensed by
-     the newsrack.  A newsrack may dispense more than one
+     the newsrack.  A newsrack may dispense more than   one
      publication (printed matter) if it is published by the
      owner of the newsrack or an affiliate thereof and the
      newsrack may bear advertising directly related to each
@@ -262,13 +299,16 @@ pavement markings meet the sidewalk.
      event that a newsrack is determined to be in violation
      of any of the provisions of this By-law,
 
-     1. the Commissioner shall provide written and/or
-        telephone notice to the owner or the owner's
-        agent that the newsrack is in violation of this
-        By-law.  Such notice shall state the substance of
-        the violation and shall set a date for compliance
-        which shall not be less than 10 business days
-        after the date notice is given; and
+     1. the Commissioner shall provide written, email
+        and/or telephone notice to the owner or the
+        owner's agent that the newsrack is in violation
+        of this By-law.  Such notice shall state the
+        substance of the violation and, except as
+        provided in Sections 7.6.4(b), Parts (3) and (4),
+        which provide for immediate or expedited removal,
+        shall set a date for compliance which shall not
+        be less than 14 days after the date notice is
+        given; and
 
      2. if the Commissioner determines that the violation
         has not been corrected on or after the date for
@@ -278,14 +318,15 @@ pavement markings meet the sidewalk.
         accordance with provisions of section 7.6.5.
 
 (b)  1. Except as provided in Sections 7.6.4(b), Parts
-        (3)and (4), the commissioner may remove and store at
-        the owner's expense any newsrack that remains in
-        violation for more than 30 days after the date for
-        compliance specified in Section 7.6.4(a) provided that
-        the Commissioner shall give written notice of removal
-        to the owner stating the date the newsrack was
-        removed; the reasons for removal; the storage
-        location; and the procedure for claiming the machine.
+        (3)and (4), the commissioner may remove and store
+        at the owner's expense any newsrack that remains
+        in violation after the date for compliance
+        specified in Section 7.6.4(a)(1) provided that
+        the Commissioner shall give email or written
+        notice of removal to the owner stating the date
+        the newsrack was removed; the reasons for
+        removal; the storage location; and the procedure
+        for claiming the newsrack.
 
      2. Except as provided in Section 7.6.4(b), Parts (3)
         and (4), the owner of any newsrack may avoid removal
@@ -302,27 +343,37 @@ pavement markings meet the sidewalk.
              hearing shall be held no later than 10 days
              after receipt of a written request for a hearing
              and a decision shall be rendered within 10 days
-             thereafter.
+             thereafter. A request for hearing shall not
+             preclude the assessment of a fine in accordance
+             with the provisions of Section 7.6.5, unless the
+             Commissioner finds that the newsrack was in fact
+             not in violation of this By-Law on the date set
+             for compliance.
 
      3. Notwithstanding any other provisions of this
         By-law, if the Commissioner or a public safety
-        official determines that a newsrack constitutes
-        an imminent danger of harm to persons or
-        property, the Commissioner or a public safety
-        official may remove the newsrack provided that
-        the owner of the newsrack shall be notified of
-        such removal and provided that the newsrack shall
-        be stored for a reasonable period of time so that
-        the owner can retrieve it.
+        official determines (a) that a newsrack has been
+        placed or maintained on a sidewalk or public way
+        without a valid permit affixed to it, or that a
+        newsrack is not in compliance with this By-law at
+        the  time that an initial or renewal permit would
+        be affixed to  such newsrack, or (b)that a
+        newsrack constitutes an imminent danger of harm
+        to persons or property, the Commissioner or a
+        public safety official may remove the newsrack
+        provided that the owner of the newsrack shall be
+        notified of such removal and provided that the
+        newsrack shall be stored for a reasonable period
+        of time so that the owner can retrieve it.
 
      4. If maintenance, repair, or construction of a
         public way, sidewalk or public or  private
         property in or adjacent to the public way cannot
         be accomplished without  the removal of a
-        newsrack, the Commissioner shall give written
-        and/or telephone notice to the newsrack's owner
-        ordering removal of the newsrack provided that
-        said notice shall specify the reason for the
+        newsrack, the Commissioner shall give written,
+        email and/or telephone notice to the newsrack's
+        owner ordering removal of the newsrack provided
+        that said notice shall specify the reason for the
         removal and the date for compliance which shall
         not be less than 10 days after the date of
         notice. If the Commissioner determines that delay
@@ -361,7 +412,7 @@ pavement markings meet the sidewalk.
 ```
 In the event that a newsrack is not in compliance with any
 of the provisions of this By-law as of the date set for
-compliance under section 7.6.4(a) of this By-law, then
+compliance under section 7.6.4(1) of this By-law, then
 the owner of such newsrack shall be subject to a fine of
 $25.00 per day for each day of non-compliance until the
 date the violations are corrected or the newsrack
