@@ -59,3 +59,15 @@ In lieu of the mailing requirement in paragraph 1 above,
 the Board of Selectmen may, at the request of any person
 listed above send the report electronically.
 ```
+
+### SECTION 3.4.6 TOWN MEETING RESOLUTION NOTICES
+
+```
+If a resolution adopted at a Town Meeting calls for notice
+to be sent to any person or entity whether public or
+private, then, unless otherwise specified in the
+resolution, the Town Clerk shall prepare and send such
+notice by U.S. mail, with a copy to the principal
+petitioner(s) by electronic mail, within 30 days after the
+dissolution of such Town Meeting.
+```
