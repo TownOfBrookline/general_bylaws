@@ -7,8 +7,9 @@ A person is disorderly, as used in Article 8.5, if, with
 purpose to cause public inconvenience, annoyance or alarm,
 or recklessly creating a risk thereof, that person: A.
 engages in fighting or threatening,  or in violent or
-tumultuous behavior; or B. makes unreasonable noise or
-offensively course utterance, gesture or
+tumultuous behavior; or B. makes unreasonable noise,
+disturbs the peace and quiet enjoyment of any residential
+premises, or makes offensively coarse utterance, gesture or
 display, or addresses abusive language to any person
 present; or C. creates a hazardous or physically offensive
 condition by any act which serves no legitimate purpose of
@@ -42,7 +43,16 @@ house or building not owned by such person, to annoy or
 disturb any person.
 ```
 
-### SECTION 8.5.5 SOLICITING RIDES
+### SECTION 8.5.5 SPECIFIC PENALTY FOR VIOLATION OF SECTIONS 8.5.1 THROUGH 8.5.4
+
+```
+A violation of the provisions of 8.5.1 through 8.5.4 may be
+dealt with as a non-criminal disposition under Article 10.3
+of these by-laws and each violation shall be subject to a
+specific penalty of $100.00.
+```
+
+### SECTION 8.5.6 SOLICITING RIDES
 
 ```
 No person, whether for the purpose of soliciting a ride
@@ -51,7 +61,7 @@ on any sidewalk or street in such a manner as to obstruct a
 free passage for pedestrians or vehicles.
 ```
 
-### SECTION 8.5.6 ACTIVITIES IN STREETS
+### SECTION 8.5.7 ACTIVITIES IN STREETS
 
 ```
 No person shall engage in any game, sport, or amusement, in
@@ -60,7 +70,7 @@ thereof by travelers thereon shall in any way be
 interrupted.
 ```
 
-### SECTION 8.5.7 PEEPING
+### SECTION 8.5.8 PEEPING
 
 ```
 No person, except an officer of the law in the performance
@@ -69,7 +79,7 @@ with the intention of peeping into the windows of a house
 or spying upon in any manner any person or persons therein.
 ```
 
-### SECTION 8.5.8 SLIPPERY SURFACE
+### SECTION 8.5.9 SLIPPERY SURFACE
 
 ```
 No person shall throw or place upon any sidewalk or
@@ -77,9 +87,9 @@ crosswalk, any banana skin, orange peel, or any slippery or
 greasy substance.
 ```
 
-### SECTION 8.5.9 VANDALISM AND THE DEFACEMENT OF PUBLIC AND PRIVATE PROPERTY
+### SECTION 8.5.10 VANDALISM AND THE DEFACEMENT OF PUBLIC AND PRIVATE PROPERTY
 
-### SECTION 8.5.9.1 PURPOSE AND INTENT
+### SECTION 8.5.10.1 PURPOSE AND INTENT
 
 ```
 Vandalism and the existence of graffiti within the Town are
@@ -91,7 +101,7 @@ property owners to remove publicly visible graffiti from
 their property within a reasonable period of time.
 ```
 
-### SECTION 8.5.9.2 DEFINITIONS
+### SECTION 8.5.10.2 DEFINITIONS
 
 ```
 For the purposes of this by-law, “graffiti” is intended to
@@ -101,14 +111,14 @@ public or private property without the prior written
 consent of the owner of such property.
 ```
 
-### SECTION 8.5.9.3 PROHIBITED CONDUCT
+### SECTION 8.5.10.3 PROHIBITED CONDUCT
 
 ```
 The application of graffiti to the real or personal
 property of another is prohibited.
 ```
 
-### SECTION 8.5.9.4 REMOVAL OF GRAFFITI
+### SECTION 8.5.10.4 REMOVAL OF GRAFFITI
 
 ```
 Upon determining that graffiti exists on any private or
@@ -163,23 +173,23 @@ graffiti shall apply if and to the extent not inconsistent
 with this by-law.
 ```
 
-### SECTION 8.5.9.5 ENFORCEMENT
+### SECTION 8.5.10.5 ENFORCEMENT
 
 ```
 Failure to remove the graffiti or make a written request to
 the Commissioner of Public Works in accordance with the
-requirements of Section 8.5.9.4 within fourteen days of
+requirements of Section 8.5.10.4 within fourteen days of
 delivery of the notice may be deemed a violation of this
 section and shall be dealt with as a non-criminal offense
 in accordance with the provisions of G.L. c. 40, s. 21D and
 Article 10.3 of these By-laws.
 
 Owners who repeatedly violate the provisions of Section
-8.5.9.4 may be prosecuted under the provisions of Article
+8.5.10.4 may be prosecuted under the provisions of Article
 10.1 of these By-laws.
 
 Any fee charged by the Town for the cost of graffiti
-removal under section 8.5.9.4 remaining unpaid after sixty
+removal under section 8.5.10.4 remaining unpaid after sixty
 days of notice of such charge shall be subject to the
 provisions of G.L. c. 40, s. 58.
 ```
