@@ -49,8 +49,12 @@ G.L. c.151 at the time of such adjustment.
 ```
 The town shall provide each employee with a fact sheet
 about this By-Law and shall post current notices about the
-By-Law in conspicuous locations in town buildings.  These
-fact sheets and posters shall include:
+By-Law in conspicuous locations in town buildings and link
+such notices conspicuously on the home web pages of the
+town’s Human Resources and Purchasing Departments as well
+as those of the Human Resources and Administration and
+Finance Offices of the Public Schools of Brookline (PSB).  
+These fact sheets and posters shall include:
 
 (a)  notice of the living wage amount;
 
@@ -62,9 +66,13 @@ fact sheets and posters shall include:
 (d)  notice that a person claiming to be aggrieved by
      a violation of this By-Law may file a grievance
      under the town’s Human Resources By-Law (Section
-     3.15.11) or, if a School Department employee, a
-     complaint with the Assistant Superintendent of
-     Schools for Personnel; notice that upon
+     3.15.11) or, if a PSB employee, a complaint with
+     the Assistant Superintendent for Human Resources
+     or such other person with similar authority and
+     duties or, if a covered employee under Section
+     4.8.6(a), a complaint with the town’s Chief
+     Procurement Officer or the Board of Selectmen as
+     provided under Section 4.8.6(c); notice that upon
      exhaustion of this administrative remedy, such
      person may seek appropriate legal relief.
 ```
