@@ -37,13 +37,14 @@ the purpose of conducting a state and national criminal record
 background check to determine the suitability of the applicant
 for the license:
 
-     Liquor Licensee
-     Manager or Alternate Manager of a Liquor Licensee
-     Hawker and Peddler
-     Hackney Carriage (Taxi) Operator
-     Solicitors and Canvassers
-     Dealers in Junk, Second-Hand Articles and Antiques
-     Second-Hand Motor Vehicle Dealers
+     Liquor Licensee;
+     Manager or Alternate Manager of a Liquor Licensee;
+     Registered Marijuana Dispensary (RMD) Licensee;
+     RMD Executives, Directors, and Managers;
+     Hawker and Peddler;
+     Hackney Carriage (Taxi) Operator;
+     Door-to-Door Solicitor;
+     Automobile Dealer; and
      Ice Cream Truck Vendor
 
 At the time of fingerprinting, the Police Department shall
