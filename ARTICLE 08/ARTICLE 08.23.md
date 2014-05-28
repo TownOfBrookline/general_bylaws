@@ -108,6 +108,18 @@ a. Public Places
        Town of Brookline must designate at least 90% of
        individual dwelling units or rooms as non-smoking.
 
+   (4) No minor or school personnel shall smoke in or
+       upon any public sidewalk or other public property
+       located within four hundred (400) feet of Brookline
+       High School grounds.
+
+       The Commissioner of Public Works shall erect and
+       maintain signage identifying the locations where
+       smoking is prohibited under this paragraph (4). Such
+       signage shall be erected so as to notify the public of
+       the smoking prohibition and the areas affected
+       thereby.
+
 b. Workplaces
 
    (1) Smoking in workplaces is prohibited.
@@ -252,7 +264,15 @@ a.   Any person who knowingly violates any provision
      which a "Smoking Prohibited By Law" sign, or its
      equivalent, is conspicuously displayed, shall be
      punished by a fine of not more than $50 for each
-     offense.
+     offense.  For a first violation of this section,
+     and for any subsequent violation, the violator
+     may be afforded the option of enrolling in a
+     smoking cessation/education program approved by
+     the Director of Health and Human Services or
+     his/her designee(s).  Proof of completion of such
+     approved program shall be in lieu of the fines
+     set forth in this Section and in Section 10.3
+     of these By-laws.
 
 b.   Any person having control of any premises or
      place in which smoking is prohibited who allows a
