@@ -349,6 +349,414 @@ provisions of this Section 5.10.3.d.1 shall be deemed to be
 severable. If any of its provisions, subsections, sentences
 or clauses shall be held to be invalid or unconstitutional,
 the remainder shall continue to be in full force and effect.
+
+2. There shall be a Neighborhood Conservation District, to be
+entitled the “Greater Toxteth Neighborhood Conservation
+District” the boundaries of which are shown on the map
+entitled “Greater Toxteth Neighborhood Conservation
+District”, a copy of which is on file with the Town Clerk’s
+office, which is hereby declared to be a part of this By-law.
+
+The purpose of the Greater Toxteth Neighborhood Conservation
+District is to preserve and protect the unique character of
+the neighborhood and the individual properties and buildings
+located therein in ways that are not typically protected by
+the Zoning Bylaws or other By-laws of the Town of Brookline.
+
+_Neighborhood Characteristics_. The pattern of development of
+the Greater Toxteth Neighborhood Conservation District
+includes a generous streetscape with mature plantings and a
+similarity of scale and configuration of homes. Most homes
+sit back farther from the street than is required under
+current zoning and cover less of their lots than is permitted
+by underlying zoning. This pattern contributes to a sense of
+open space and a wider street, with homes still close enough
+to actively contribute to the neighborhood’s street-level
+social dynamic. The neighborhood is predominately single or
+two-family three storied structures, though they appear to be
+2 1⁄2 stories given the gambrel, cross-gabled, and mansard roof
+lines that provide spaciousness and light in spite of the
+close proximity of abutting houses, thereby mitigating the
+effect of the upper stories on abutting properties.  Homes
+are generally respectfully positioned on their lots, address
+the street, and most have open porches that promote an active
+transition from the home to the street, which enhances the
+neighborhood’s social fabric and fosters street level
+sociability. Broad backyard view corridors are broken only
+by mature trees and fences. While nestled in a rather dense
+area, the neighborhood has an abundance of open and green
+space and many mature trees – traditional characteristics
+found in Brookline – that soften the near-urban locale.
+There are a variety of architectural styles that coexist
+to create a pleasing liveliness that functions as a cohesive
+neighborhood. The scale, massing and configuration of homes
+in the neighborhood collectively contribute to a commonality
+of pattern that is unique relative to the surrounding
+neighborhoods (such as Coolidge Corner, Brookline Village
+and the Harvard Street corridor).
+
+_Special Definitions_. With regard to the Greater Toxteth
+Neighborhood Conservation District, the following terms shall
+have the meaning given to them below.
+
+i. “Habitable Space” shall mean space in a building or
+   structure suitable for living, sleeping, eating or
+   cooking; otherwise used for human occupancy; or
+   finished or built out and meeting the State Building
+   Code requirements for height, light, ventilation and
+   egress for human habitation or occupancy.  Bathrooms,
+   toilet compartments, closets, halls, storage or
+   utility space and similar areas shall not be excluded
+   from Habitable Space solely because they are excluded
+   from the definition of habitable space under the State
+   Building Code.
+
+ii. “Base-line Living Area” shall mean the amount of
+   Habitable Space above grade in a building as of the
+   Effective Date of this legislation. The Neighborhood
+   Conservation District Commission shall use reasonable
+   efforts to create and maintain a record of such
+   baseline Habitable Space for each property in the
+   district.  The Commission may use Assessor records,
+   building permits and such other Town records and
+   information as it deems appropriate to create such
+   record.  In the event of demolition or destruction of
+   a building that was existing as of the Effective Date,
+   the Base–line Living Area of such building shall be
+   used as the measurement for any new construction on
+   that property.
+
+iii. “Reviewable Project” shall have the meaning given to
+   it in the section below entitled “Projects Subject To Review.”
+
+iv. “Front Plane” shall mean the forward most plane of the
+   main structure façade on any above grade floor
+   containing Habitable Space.
+
+v. “Effective Date” shall mean the date that this Bylaw
+   amendment is approved at Town Meeting and becomes
+   effective.
+
+Projects Subject To Review. Section 5.10.2(m) sets forth the
+activities that are reviewable in a neighborhood conservation
+district unless otherwise exempted. In the Greater Toxteth
+Neighborhood Conservation District, only the following
+activities shall be reviewable. The term Reviewable Project,
+when used in this Section 5.10.3(d)(2) shall refer only to
+the following activities.
+
+i. Any Addition or Alteration to the existing exterior
+   envelope of a building that, for any single project,
+   increases the existing Habitable Space above grade
+   (including new Habitable Space created by adding
+   dormers to the roof or new stories) by 15% or more of
+   the applicable Base-line Living Area.  Multiple
+   Additions or Alterations undertaken under separate
+   building permits maybe deemed by the Commission to
+   constitute a single project if the Commission
+   reasonably determines that the intent is to break a
+   larger project into smaller pieces in order to avoid
+   being subject to review.
+
+ii. Any Addition or Alteration to the existing exterior
+   envelope of a building that, when aggregated with any
+   prior such projects, would have the effect of
+   increasing the Habitable Space above grade (including
+   new Habitable Space created by adding dormers to the
+   roof or new stories) by 33% or more over the Base-line
+   Living Area. The purpose of this section is to
+   prevent property owners from undertaking multiple
+   smaller projects over time that would have the
+   cumulative effect of adding volume to building and/or
+   structures that is inconsistent in scale, massing
+   and/or siting with other buildings in the district.
+
+iii. Construction of a new building or other improvements
+  (whether constructed on vacant land or on land where
+  prior improvements have been demolished), and
+  construction to replace buildings or other
+  improvements destroyed by fire or other casualty.
+
+iv. The addition of or to a front porch, or the enclosure
+  of any portion thereof (such as to create a vestibule
+  or a partially or fully enclosed porch) on an existing
+  building.
+
+v. Any Addition or Alteration of an existing building or
+  other improvements, or construction of any new or
+  replacement buildings or other improvements (including
+  the enclosure of any existing or newly constructed
+  porch) that would have the effect of advancing the
+  Front Plane of the building toward the street than the
+  condition existing as of the Effective Date.
+
+_Projects Exempt From Review_. The Reviewable Projects set
+forth above shall be the only projects subject to review in
+the Greater Toxteth Neighborhood Conservation District.  All
+other activities listed in the definition of “Reviewable
+Project” at Section 5.10.2(m) of these By-laws, when
+undertaken as an independent project, shall be exempt from
+review, provided, however, that such activities may be
+considered and be subject to review as part of the review
+process for a Reviewable Project to the extent that such
+activities are addressed by guidelines set forth below.  In
+addition, all projects or activities listed in Section
+5.10.6(c) shall be exempt from review, including renovations
+to the interior of a structure that do not impact the
+exterior of the structure.
+
+Activities affecting the following elements shall be exempt
+from review when undertaken as an independent project, but
+such activities may be subject to review as part of the
+review process for a Reviewable Project to the extent that
+such activities are addressed by the guidelines set forth
+below.
+
+i. Terraces, walks, driveways, sidewalks and similar
+   structures substantially at grade level, provided,
+   however, that the grade is not changed and such
+   improvements are not to be used for parking between
+   the street and the Front Plane of a building (or the
+   principal side wall plane along the street in the case
+   of a building that occupies a corner property).
+
+ii. Walls and fences in front yards four feet high or less
+   as measured from the grade of the sidewalk or the
+   surface of the ground immediately below the wall or
+   fence, whichever grade is lower.
+
+iii. Replacement Doors and windows (including storm doors
+   and windows), trelliswork, cladding, roofing material.
+
+iv. Flat skylights or solar collectors that are parallel
+   to and in close contact with the plane of the roof.
+
+v. Permanent exterior lighting, provided that it is
+   installed in a manner that limits direct light from shining onto any adjacent property.
+
+vi.  Chimney caps.
+
+vii. Ordinary maintenance, repair or replacement of any
+   exterior feature so long as it does not involve a
+   change in scale, massing or open space.
+
+_Guidelines applicable to Reviewable Projects_. The Greater
+Toxteth Neighborhood Conservation District shall be governed
+by the following design guidelines, and the Commission shall
+apply such guidelines to all Reviewable Projects in order to
+protect and preserve the unique neighborhood characteristics
+described above.
+
+i. Construction of any buildings or other improvements
+  (including, without limitation, any Addition or
+  Alteration of an existing building or other
+  improvements, or construction of any new or
+  replacement buildings or other improvements) shall be
+  done in a manner that is compatible with the existing
+  historic patterns of scale, massing and siting in the
+  district, and maintains streetscapes, view sheds and
+  green open space. Open/green space should be
+  safeguarded, and respect shall be given to adjoining
+  properties and the district as a whole.
+
+ii. A Reviewable Project generally shall be deemed by the
+  Commission not to be consistent with these design
+  guidelines (including, but not limited to, the design
+  guidelines immediately set forth above in Paragraph
+  (i) of this section), and should therefore not
+  typically be approved, to the extent that it results
+  in an increase of Habitable Space within an expansion
+  of the exterior building envelop above grade
+  (including new habitable space created by adding
+  dormers to the roof) by more than 33% of the Base-line
+  Living Area (whether such increase results from a one-
+  time activity or from the aggregated effect of two or
+  more successive activities, such that all such
+  activities shall be cumulative and considered in the
+  aggregate relative to the Base-line Living area
+  condition).  Notwithstanding the foregoing, the
+  Commission may find in some circumstances that due to
+  the unique characteristics of a particular property,
+  the Base line Living Area is substantially less than
+  the average condition for the immediate surrounding
+  area and/or the district as a whole, and in such
+  circumstances, the Commission may find that an
+  increase of more than 33% is appropriate, provided
+  that such larger increase does not result in a
+  derogation of the special character of the
+  neighborhood intended to be protected by this By-law.
+
+iii. Construction of any buildings or improvements
+  (including, without limitation, any Addition or
+  Alteration of an existing building or other
+  improvements, or construction of any new or
+  replacement buildings or other improvements) shall be
+  done in a manner such that the back and side-yard
+  setbacks are consistent with and respectful of the
+  existing character and fabric of the immediate
+  surrounding area and the district as a whole.  Such
+  activity shall generally be deemed by the Commission
+  to not be consistent with and respectful of the
+  existing character and fabric of the immediate
+  surrounding area and the district as a whole, and
+  should therefore not typically be approved, if it
+  results in any part of a building or other
+  improvements (such as porches, porticos, entryways,
+  breezeways and bay windows) exceeding the established
+  back and side-yard setback requirements for the house
+  itself under the Town’s applicable zoning by-laws.
+  Notwithstanding the foregoing, in certain
+  circumstances, owing to the unique setting of the
+  property and the improvements situated thereon, the
+  Commission may permit modest variations to such
+  setbacks so long as the special character of the
+  neighborhood is preserved.
+
+iv. In the event that a lot existing as of the Effective
+  Date is subdivided into two or more lots, then any new
+  construction on such new lot or lots shall not be
+  subject to Paragraph (ii) of this section, but shall
+  otherwise be subject to these design guidelines in all
+  respects.  After such new construction has been
+  approved, any additional Additions or Alterations that
+  materially affect the massing, size or siting shall in
+  general not be deemed to be consistent with these
+  Bylaws.
+
+v. All Reviewable Projects shall be done in such a manner
+  so as to preserve and promote the existing streetscape
+  condition characterized by generous front yard
+  setbacks and the transition from the home to the street
+  through open front porches that foster street
+  level sociability. Therefore, no Addition or
+  Alteration of an existing building or other
+  improvements, or the construction of any new or
+  replacement buildings or other improvements shall be
+  deemed to be consistent with these by-laws if it
+  results in:
+
+  a. The enclosure of an open porch in such a manner
+     as to inhibit the transitional nature from the
+     home to the street and the street level
+     sociability fostered thereby.
+
+  b. The Front Plane of a building being closer to the
+     street as compared to the existing condition as
+     of the Effective Date. Enclosure of an existing
+     or newly constructed porch should be deemed to
+     constitute such a change in the location of the
+     Front Plane of the building, provided, however,
+     that the creation of enclosed front door
+     vestibules of less than fifty (50) square feet
+     shall be deemed to be consistent with the
+     character of the neighborhood.  Notwithstanding
+     the foregoing, the Commission may find in certain
+     circumstances that, due to the unique
+     characteristics of a particular property, the
+     existing front yard setback is substantially less
+     than the average condition for the immediate
+     surrounding area and/or the district as a whole,
+     and in such circumstances, the Commission may,
+     with respect to a new building, permit or require
+     an increase to the front yard setback.
+
+
+vi. In reviewing the siting, massing and design of any
+  Reviewable Project, efforts shall be made to maintain
+  front yard open space for each property in the
+  district and ensure its compatibility with the
+  streetscape pattern and preservation of neighborhood
+  front and rear view corridors.
+
+vii. The Commission shall endeavor to apply the following
+  principles when reviewing an application for a
+  Certificate of Appropriateness for a Reviewable
+  Project:
+
+  a. Promote and support the mixed architectural
+     vernacular of the neighborhood and acknowledge
+     any historical significance.
+  b. Ensure that buildings, including and especially
+     new buildings, respect the traditional scale,
+     massing and configuration of the neighborhood,
+     particularly as buildings relate to each other,
+     to open space, and to the street.  Buildings
+     shall be similarly oriented, and have similar
+     yard depths and distance between buildings as
+     their existing counterparts. The Commission
+     shall take into account that the neighborhood
+     desires to embrace both traditional and
+     contemporary architectural style and design, as
+     well as both traditional and new building
+     materials practices and technologies.
+
+  c. Take into account the imposition of a Demolition
+     Delay under Brookline’s Demolition Delay By-Law
+     with respect to any Reviewable Project, and
+     consider the special qualities of the property
+     identified by the Preservation Commission.
+
+  d. Conserve and promote green space, including the
+     tradition of mature trees and plantings, shading,
+     green setbacks, topography, rear view corridors,
+     streetscapes, and other landscape amenities of
+     the neighborhood and the potential consequences
+     to immediate neighbors of proposed changes.
+
+  e. Minimize the adverse visual and acoustical
+     effects of trash/recycling containers, air
+     conditioning compressors, transformers and other
+     fixtures.
+
+  f. Consider traffic and parking impacts as they may
+     affect traditional street patterns and use,
+     pedestrian activity, and safety (particularly
+     with respect to the Lawrence School area.
+
+viii. The Commission shall also consider the following
+  specific factors when reviewing an application for a
+  Certificate of Appropriateness for a Reviewable
+  Project:
+
+  a. The consistency of any proposed Alteration or
+     Addition of an existing building or other
+     improvement, or new or replacement building or
+     other improvements with the scale, massing and
+     configuration of surrounding properties;
+
+  b. The significance to the neighborhood (e.g.
+     historical, architectural, social), if any, of
+     the existing buildings or structure(s);
+
+  c. The design of any proposed Addition or
+     Alteration, or new or replacement building,
+     including potential adverse effects of the
+     Project on the surrounding properties and/or the
+     district as a whole;
+
+  d. The extent to which the integrity of the
+     established streetscape and its pattern and
+     character are restored or enhanced;
+
+  e. The proximity of surrounding buildings and
+     structures;
+
+  f. Provisions for green/open space and landscaping;
+
+  g. Provisions for and character of parking; and
+
+  h. If made, a claim of substantial hardship.
+
+Nothing in this Section 5.10.3.d.2 shall be construed as
+repealing or modifying any existing by-law or regulation of
+the Town, but it shall be in addition thereto.  To the extent
+this Section 5.10.3.d.2 imposes greater restrictions upon a
+Reviewable Project than other by-laws, regulations or
+statutes, such greater restrictions shall prevail.  The
+provisions of this Section 5.10.3.d.2 shall be deemed to be
+severable.  If any of its provisions, subsections, sentences
+or clauses shall be held to be invalid or unconstitutional,
+the remainder shall continue to be in full force and effect.
 ```
 
 ### 5.10.4. NEIGHBORHOOD CONSERVATION DISTRICT OVERSIGHT
