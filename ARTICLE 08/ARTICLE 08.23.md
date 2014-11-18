@@ -6,10 +6,10 @@
 In order to protect the health, safety and welfare of the
 inhabitants of the Town of Brookline, including but not
 limited to its younger population, by restricting the sale
-of and public exposure to tobacco products known to be
+of and public exposure to tobacco and e-cigarette products known to be
 related to various and serious health conditions such as
 cancer, this by-law shall limit and restrict the sale of
-and public exposure to Tobacco Products within the Town of
+and public exposure to tobacco and e-cigarette products within the Town of
 Brookline.
 ```
 
@@ -19,36 +19,48 @@ Brookline.
 a.   Tobacco - Cigarettes, cigars, snuff or tobacco in
      any of its forms.
 
-b.   Smoking - Lighting of, or having in one's
-     possession any lighted cigarette, cigar, pipe or
-     other tobacco product.
+b.   E-Cigarette - Any electronic nicotine delivery product composed of a
+     mouthpiece, heating element, battery, and/or electronic circuits that provides a
+     vapore of liquid nicotine to the user, or relies on vaporization of solid nicotine or
+     any liquid, with or without nicotine.  This term shall include devices whether
+     they are manufactured as e-cigarettes, e-cigars, e-pipes, hookah pens, or under
+     any other product name.
 
-c.   Tobacco Vending Machine - A mechanical or
+c.   Smoking - Lighting of, or having in one's
+     possession any lighted cigarette, cigar, pipe or
+     other tobacco product or non-tobacco product designed to be
+     combusted and inhaled.  The activation of or inhalation of
+     vapor from an e-cigarette shall be considered smoking under this by-law.
+
+d.   Tobacco Vending Machine - A mechanical or
      electrical device which dispenses tobacco
-     products by self service, with or without
+     or e-cigarette products by self service, with or without
      assistance by a clerk or operator.
 
-d.   Minor - A person under twenty-one years of age.
+e.   Self-Service Display - Any display from which customers may select a tobacco or
+     e-cigarette product without assistance from an employee or store personnel.
 
-e.   Employee - A person who performs work or services
-     for wages or other consideration.
+f.   Minor - A person under twenty-one years of age.
 
-f.   Employer - A person, partnership, association,
-     corporation, trust or other organized
-     group, including the Town of Brookline and any
-     department or agency thereof, which
+g.   Employee - A person who performs services for an employer.
+
+h.   Employer - An individual, partnership, association,
+     corporation, trust or other organized group of individuals, that
      utilizes the services of one (1) or more
      employees.
 
-g.   Workplace - Any enclosed area of a structure in
-     the Town of Brookline, at which one or
-     more employees perform services for an employer.
+i.   Workplace - An indoor area, structure or facility or a portion
+     thereof, at which one or more employees perform a service for
+     compensation for the employer,
+     other enclosed spaces rented to or otherwise used by the public;
+     where the employer has the right or authority to exercise
+     control over the space.
 
-h.   Food Service Establishment - An establishment
+j.   Food Service Establishment - An establishment
      having one or more seats at which food is served
      to the public.
 
-i.   Health Care Institution -  An individual,
+k.   Health Care Institution -  An individual,
      partnership, association, corporation or trust or
      any person or group of persons that provides
      health care services and employs health care
@@ -59,18 +71,18 @@ i.   Health Care Institution -  An individual,
      pharmacies, drug stores and doctors’ and
      dentists’ offices.
 
-j.   Entity - any single individual, group of
+l.   Entity - any single individual, group of
      individuals, corporation, partnership,
      institution, employer, association, firm or any
      other legal entity whether public or private.
 
-k.   Educational Institution - any public or private
+m.   Educational Institution - any public or private
      college, normal school, professional school,
      scientific or technical institution, university
      or other institution furnishing a program of
      higher education.
 
-l.   Retail Establishment - any store that sells goods
+n.   Retail Establishment - any store that sells goods
      or articles of personal services to the
      public.
 ```
@@ -105,10 +117,10 @@ a. Public Places
        in the Town of Brookline
        must provide smoke-free common areas. Licensed Inns,
        Hotels and Motels in the
-       Town of Brookline must designate at least 90% of
+       Town of Brookline must designate 100% of
        individual dwelling units or rooms as non-smoking.
 
-   (4) No minor or school personnel shall smoke in or
+   (4) The use of tobacco or e-cigarette products by minors or school personnel is prohibited in or
        upon any public sidewalk or other public property
        located within four hundred (400) feet of Brookline
        High School grounds.
@@ -122,32 +134,18 @@ a. Public Places
 
 b. Workplaces
 
-   (1) Smoking in workplaces is prohibited.
+   (1)  Smoking in workplaces is prohibited.
 
    (2) Notwithstanding subsection (1), smoking may be
-       permitted in the following places and circumstances:
-
-       a. Private residences; except during such time
+       permitted in private residences; except during such time
        when the residence is utilized as part of a
        business as a group childcare center, school age
        child care center, school age day or overnight
        camp, or a facility licensed by the department of
        early education and care or as a health care
-       related office or facility;
+       related office or facility.
 
-       b. A guest room in a hotel, motel, inn, bed and
-       breakfast or lodging home that is designed and
-       normally used for sleeping and living purposes,
-       which is rented to a guest and designated as a smoking room.
-
-   (3) Hotels must establish and post a workplace policy
-       that states "Employees are not required to work in
-       rooms in which smoking is allowed." Employees who do
-       not want to work in such rooms must so inform their
-       employer in writing, and employers must abide by their
-       employees' stated wishes in this regard.
-
-   (4) Every establishment in which smoking is permitted
+   (3) Every establishment in which smoking is permitted
        pursuant to this by-law shall designate all positions
        where the employee’s presence in an area in which
        smoking is permitted to be "smoking positions."  The
@@ -157,13 +155,13 @@ b. Workplaces
        smoke, which may be hazardous to the employee’s
        health.
 
-   (5) No establishment in which smoking is permitted
+   (4) No establishment in which smoking is permitted
        pursuant to this by-law may require any employee whose
        effective date of employment was on or before November
        1, 1994 to accept a designated smoking position as a
        condition of continued employment by the employer.
 
-   (6) No establishment in which smoking is permitted
+   (5) No establishment in which smoking is permitted
        pursuant to this by-law may discharge, refuse to hire,
        or otherwise discriminate against any employee or
        applicant for employment by reason of such person's
@@ -172,19 +170,23 @@ b. Workplaces
        designated smoking position and has been so notified
        in writing at the time of hiring.
 
-   (7) It is the intent of this by-law that a designated
+   (6) It is the intent of this by-law that a designated
        smoking position shall not be considered suitable work
        for purposes of M.G.L. c. 151A, and that an employee
        who is required to work in a smoking position shall
        have good cause attributable to the employer for
        leaving work.
 
-   (8) Each establishment in which smoking is permitted
-       pursuant to 8.23.3(b)(2)(b) shall post, and make
-       available to all job applicants, a statement inviting
-       employees and job applicants to notify the Board of
-       Selectmen regarding any violation of the policies in
-       this section (8.23.3(b)).
+c. E-cigarette Usage - Locations Prohibited
+
+   (1) In addition to the smoking prohibitions set forth in
+       this bylaw, the use of e-cigarettes is further
+       prohibited wherever smoking is prohibited under M.G.L.
+       Chapter 270, Section 22 (the “Smoke-Free Workplace Law”),
+       and in all locations listed in Section 8.23.3 of this
+       by-law. The Director of Health and Human Services and/or
+       his or her designee(s) shall enforce this section in
+       accordance with Section 8.23.6.
 ```
 
 ### SECTION 8.23.4 POSTING REQUIREMENTS
@@ -198,11 +200,11 @@ international symbol for "No Smoking" shall be deemed as
 compliance.
 ```
 
-### SECTION 8.23.5 SALE AND DISTRIBUTION OF TOBACCO PRODUCTS
+### SECTION 8.23.5 SALE AND DISTRIBUTION OF TOBACCO AND E-CIGARETTE PRODUCTS
 
 ```
 a.   Permit Requirement - No Entity otherwise permitted to sell
-     tobacco products shall sell such products within
+     tobacco or e-cigarette products shall sell such products within
      the Town of Brookline without a valid tobacco
      sales permit issued by the Director of Public
      Health. Permits must be posted in a manner
@@ -212,44 +214,42 @@ a.   Permit Requirement - No Entity otherwise permitted to sell
      and Charges.
 
 b.   Prohibition of Tobacco Vending Machines - The sale of tobacco
-     products by means of vending machines is
+     or e-cigarette products by means of vending machines is
      prohibited.
 
-c.   Restrictions on the Distribution of Tobacco Products - No person,
+c.   Restrictions on the Distribution of Tobacco or e-cigarette Products - No person,
      firm, corporation, establishment or agency shall
-     distribute tobacco products free of charge or in
+     distribute tobacco or e-cigarette products free of charge or in
      connection with a commercial or promotional
      endeavor within the Town of Brookline. Such
      endeavors include, but are not limited to,
-     product “giveaways", or distribution of a tobacco
+     product “giveaways", or distribution of a tobacco or e-cigarette
      product as an incentive, prize, award or bonus in
      a game, contest or tournament involving skill or
      chance.
 
 d.   Prohibition of Sales to Minors - No person, firm, corporation,
-     establishment, or agency shall sell tobacco
+     establishment, or agency shall sell tobacco or e-cigarette
      products to a minor.
 
-e.   Restrictions on Advertising and Promotion - From and after January 1,
-     1995, free standing tobacco product displays in
-     retail locations, where a tobacco product is
-     accessible to the public, shall be within twenty
-     feet and the unobstructed view of a check-out or
-     cash register location.
+e.   Self-Service Displays – All self-service displays of tobacco
+     products as defined herein are prohibited. All commercial
+     humidors including, but not limited to walk-in humidors
+     must be locked.
 
-f.   Prohibition of the Sale of Tobacco Products
+f.   Prohibition of the Sale of Tobacco Products and e-cigarettes
      by Health Care Institutions - No health care
      institution located in the Town of Brookline
-     shall sell or cause to be sold tobacco  products.
+     shall sell or cause to be sold tobacco or e-cigarette products.
      Additionally, no retail establishment that
      operates or has a health care institution within
      it, such as a pharmacy or drug store, shall sell
-     or cause to be sold tobacco products.
+     or cause to be sold tobacco or e-cigarette products.
 
-g.   Prohibition of the Sale of Tobacco Products
-     by Educational Institutions -No    educational
+g.   Prohibition of the Sale of Tobacco and e-cigarette Products
+     by Educational Institutions - No educational
      institution located in the Town of Brookline
-     shall sell or cause to be sold     tobacco
+     shall sell or cause to be sold tobacco or e-cigarette
      products. This includes all educational
      institutions as well as any retail
      establishments that operate on the property of an
@@ -259,11 +259,11 @@ g.   Prohibition of the Sale of Tobacco Products
 ### SECTION 8.23.6 VIOLATIONS AND PENALTIES
 
 ```
-a.   Any person who knowingly violates any provision
+a.   Any person who violates any provision
      of this by-law, or who smokes in any area in
      which a "Smoking Prohibited By Law" sign, or its
      equivalent, is conspicuously displayed, shall be
-     punished by a fine of not more than $50 for each
+     punished by a fine of $100 for each
      offense.  For a first violation of this section,
      and for any subsequent violation, the violator
      may be afforded the option of enrolling in a
@@ -277,16 +277,16 @@ a.   Any person who knowingly violates any provision
 b.   Any person having control of any premises or
      place in which smoking is prohibited who allows a
      person to smoke or otherwise violate this bylaw,
-     shall be punished by a fine of not more than $100
-     for each offense.
+     shall be punished by a fine of $100
+     for a first offense, $200 for a second offense,
+     and $300 for a third or subsequent offense.
 
 c.   Any entity violating any other section of this
-     by-law shall receive a fine of three hundred
-     dollars ($300.00) for each offense.
+     by-law shall receive a fine of $300.00 for each offense.
 
 d.   Employees who violate any provision of Section
-     8.23.3(b) shall be punished by a fine of not more
-     than $100 per day for each day of such violation.
+     8.23.3(b) shall be punished by a fine of
+     $100 per day for each day of such violation.
 
 e.   Violations of this by-law may be dealt with in a
      non-criminal manner as provided in PART X of the
