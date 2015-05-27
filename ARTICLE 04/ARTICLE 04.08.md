@@ -97,10 +97,16 @@ to the following persons:
 
 (e)  Putterham Meadows Golf Course rangers;
 
-(f)  volunteers and all persons appointed or elected
+(f)  town junior, part-time positions funded by a Recreation revolving
+     fund, specifically, Jr. Swim Coach, Jr. Swim Instructor, Jr. 
+     Lifeguard, Jr. Skate Guard, Jr. Referee, Jr. Assistant Recreation
+     Leader, Jr. Camp Counselor, Jr. Camp Instructor, Jr. Skate
+     Concessions;
+
+(g)  volunteers and all persons appointed or elected
      to town committees;
 
-(g)  elected officers of the town.
+(h)  elected officers of the town.
 ```
 
 ### SECTION 4.8.6
