@@ -86,7 +86,17 @@ buildings and places.
      Clerk's office, which accompanies and is hereby
      declared to be part of this By-law.
 
-(h)  Other Historic Districts
+(h)  Croninshield Local Historic District
+     There is hereby established an Historic District, to
+     be entitled the `Croninshield Local Historic
+     District,' the boundaries of which shall be shown on
+     the map entitled `Crowninshield Local Historic
+     District,' a copy of which is on file with the Town
+     Clerk's office, which accompanies and is hereby
+     declared to be part of this By-law.
+
+
+(i)  Other Historic Districts
      Other Historic Districts within the Town may be
      established from time to time in accordance with the
      procedures set forth in Chapter 40C of the
@@ -332,3 +342,4 @@ from time to time, by the Board of Selectmen.
 ![](images/media/pg04_chestnut_hill.png)
 ![](images/media/pg05_harvard_avenue.png)
 ![](images/media/pg06_lawrence.png)
+![](images/media/pg08_crowninshield.png)
