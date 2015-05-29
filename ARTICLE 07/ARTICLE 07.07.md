@@ -71,16 +71,33 @@ placed ice or snow upon any sidewalk of the Town.
 
 ```
 The violation of any provision of Sections 7.7.1 and 7.7.2
-of this Article 7.7 shall be punishable by a fine not
-exceeding One Hundred ($100.) Dollars for each offense.  In
-any fiscal year, the first violation of any provision of
-ARTICLE 7.3 shall be noted with a Warning.  The second and
-each subsequent violation, in any fiscal year, of said
-Article 7.3 shall be punishable by a fine not exceeding
-Twenty-Five ($25.00) Dollars for each violation.
+of this Article 7.7 shall be subject to a fine of $100.00
+for the first violation, $150.00 for the second violation,
+and $200.00 for each subsequent violation in any fiscal year.
+The violation of any provision of Section 7.7.3 of this
+Article 7.7 shall be noted with a warning for the first
+violation, and subject to a fine of $50.00 for the second
+violation and $100.00 for each subsequent violation in any
+fiscal year.  The violation of any provision of Section 
+7.7.4 of this Article 7.7 shall be subject to a fine 
+of $250.00.
 ```
 
-### SECTION 7.7.6 ANNUAL REPORT
+### SECTION 7.7.6 COMPLIANCE DELAY
+```
+Depending upon the severity of a storm and other factors,
+the Commissioner of Public Works may delay the period for
+compliance with Sections 7.7.1, 7.7.2, or 7.7.3 of this
+by-law.  In the event of initiating a compliance delay,
+the Commissioner of Public Works shall post a notice
+prominently on the Town of Brookline’s Internet home page
+and make other good faith efforts to notify the public
+including, but not limited to, social media outlets, the
+cable access television station, e-mail list serves, and
+the emergency telephone notification system.
+```
+
+### SECTION 7.7.7 ANNUAL REPORT
 
 ```
 The Board of Selectmen shall include in the Annual Report

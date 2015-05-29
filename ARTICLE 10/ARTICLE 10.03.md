@@ -59,11 +59,15 @@ requirements set forth in General Laws, Chapter 40, section
                  Section 7.6.5       Penalty                   $ 25.00
 
   Article 7.7    Removal Of Snow And Ice From Sidewalks
-                 Section 7.7.5 Penalties For
-                    Sections 7.7.1 & 7.7.2                     $100.00
-                 For Section 7.7.3
-                    First Violation                            Warning
-                 Second & Subsequent Violations                $ 25.00
+                 Section 7.7.5 Penalties
+                    For Sections 7.7.1 & 7.7.2
+                        First Violation                        $100.00
+                        Second Violation                       $150.00
+                        Third and Subsequent Violations        $200.00
+                    For Section 7.7.3
+                        First Violation                        $ 50.00
+                        Second and Subsequent Violations       $100.00
+                    For Section 7.7.3                          $250.00
 
   Article 7.8    Removal Of Vehicles From Streets              $ 25.00
 
