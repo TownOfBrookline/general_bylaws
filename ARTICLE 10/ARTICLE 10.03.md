@@ -106,6 +106,11 @@ requirements set forth in General Laws, Chapter 40, section
                    First Violation                             $100.00
                    Second Violation                            $200.00
                    Third and Subsequent Violations             $300.00
+
+  Article 8.34   Drinking Water Access By-Law
+                   Initial Violation                           Warning
+                   First Offense                               $ 50.00
+                   Second and Subsequent Offenses              $100.00
 ```
 
 ***HEALTH DEPARTMENT REGULATIONS***
