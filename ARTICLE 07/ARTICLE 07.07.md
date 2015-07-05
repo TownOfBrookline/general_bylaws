@@ -75,9 +75,8 @@ of this Article 7.7 shall be subject to a fine of $100.00
 for the first violation, $150.00 for the second violation,
 and $200.00 for each subsequent violation in any fiscal year.
 The violation of any provision of Section 7.7.3 of this
-Article 7.7 shall be noted with a warning for the first
-violation, and subject to a fine of $50.00 for the second
-violation and $100.00 for each subsequent violation in any
+Article 7.7 shall be noted with a fine of $50.00 for the first
+violation, and $100.00 for each subsequent violation in any
 fiscal year.  The violation of any provision of Section 
 7.7.4 of this Article 7.7 shall be subject to a fine 
 of $250.00.
