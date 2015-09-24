@@ -23,8 +23,14 @@ forth herein.
 
 2. Limitations on Use.
 a. Leaf blowers shall not be operated except between March 
-15 and May 15 and between September 15 and December 15 in 
-each year. The provisions of this subsection do not apply 
+15 and June 15 and between September 15 and December 31 in
+each year. The Commissioner of Public Works shall have the
+authority to temporarily permit the use of leafblowers during
+the period of time leafblower use is prohibited in order to
+aide in emergency operations and clean-up associates with
+storms, hurricanes and the like.
+
+The provisions of this subsection do not apply
 to the use of leaf blowers by the Town and its contractors. 
 The provisions of this section also do not apply to non- 
 residential property owners but only with respect to 
