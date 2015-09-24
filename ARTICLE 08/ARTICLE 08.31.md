@@ -3,11 +3,11 @@
 ### SECTION 8.31.1 STATEMENT OF PURPOSE
 
 ```
-Reducing the use of gasoline and oil fuels and reducing 
-carbon emissions into the environment are public purpose of 
-the Town and the reduction of noise and emissions of 
+Reducing the use of gasoline and other carbon-emitting fuels
+is a public purpose of
+the Town; the reduction of noise and emissions of
 particulate matter resulting from the use of leaf blowers 
-are public purposes in protecting the health, welfare and 
+are public purposes that protect the health, welfare and
 environment of the Town. Therefore, this by-law shall limit 
 and regulate the use of leaf blowers as defined and set 
 forth herein.
@@ -17,22 +17,12 @@ forth herein.
 
 ```
 1. Leaf Blowers.
-   Leaf blowers are defined as any portable gasoline powered
+   Leaf blowers are defined as any powered
    machine used to blow leaves, dirt and other debris off 
    lawns, sidewalks, driveways, and other horizontal surfaces.
 
 2. Limitations on Use.
-a. Leaf blowers shall not be operated except between March 
-15 and May 15 and between September 15 and December 15 in 
-each year. The provisions of this subsection do not apply 
-to the use of leaf blowers by the Town and its contractors. 
-The provisions of this section also do not apply to non- 
-residential property owners but only with respect to 
-parcels that contain at least five acres of open space. 
-The provisions of this subsection also shall not apply to 
-the use of leaf blowers by the Town or its designees for 
-performing emergency operations and clean-up associated 
-with storms, hurricanes and the like.
+a. Leaf blowers shall not be operated in the town of Brookline.
 
 3. Regulations.
 The Commissioner of Public Works with the approval of the 
@@ -47,16 +37,15 @@ officer, the Building Commissioner or his/her designee, the
 Commissioner of Public Works or his/her designee and/or the 
 Director of Public Health or his/her designee.
 
-b. For the purposes of this section “person” shall be 
-defined as any individual, company, occupant, real property 
-owner, or agent in control of real property. Each violation 
+b. Each violation
 shall be subject to fines according to the following 
 schedule:
-   (a) a warning or $50.00 for the first offense;
-   (b) $100.00 for the second offense;
-   (c) $200.00 for the third offense;
-   (d) $200.00 for successive violations, plus
-   (e) court costs for any enforcement action.
+   (a) a warning or $100.00 for the first offense;
+   (b) $200.00 for the second offense;
+   (c) $300.00 for successive violations, plus
+   (d) court costs for any enforcement action.
+
+Each Day of a contining violation shall be considered a separate violation.
 
 5. Effective Date.
 The provisions of this Leaf Blower By-Law shall be 

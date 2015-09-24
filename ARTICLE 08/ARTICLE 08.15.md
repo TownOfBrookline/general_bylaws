@@ -87,8 +87,8 @@ for humans is 20 - 20,000 cycles/second (Hz).
 doubling of subjective loudness. That is, a sound of 65dB is twice as loud as a sound of
 55dB.
 
-(m) Leaf blowers: Any portable machine used to blow leaves, dirt and other debris off
-lawns, sidewalks, driveways, and other horizontal surfaces.
+(m) Leaf blowers: Any powered machine used to blow leaves, dirt and other debris off
+lawns, sidewalks, driveways, and other surfaces.
 
 (n) Noise: Sound which a listener does not wish to hear and is under investigation that
 may exceed the Noise requirements located in this Noise By-law.
