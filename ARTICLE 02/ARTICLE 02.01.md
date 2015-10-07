@@ -260,7 +260,7 @@ requested of them in writing by ten (10) or more registered
 voters in the Town.
 ```
 
-### SECTION 2.1.14 MANDATORY EDUCATIONAL TRAINING FOR ALL TOWN MEETING MEMBERS
+### SECTION 2.1.14 MANDATORY EDUCATIONAL TRAINING FOR TOWN MEETING MEMBERS
 
 ```
 All Town Meeting Members shall, within one hundred and twenty (120)
