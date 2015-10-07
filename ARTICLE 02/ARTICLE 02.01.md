@@ -259,3 +259,20 @@ town meeting all subjects the insertion of which shall be
 requested of them in writing by ten (10) or more registered
 voters in the Town.
 ```
+
+### SECTION 2.1.14 MANDATORY EDUCATIONAL TRAINING FOR ALL TOWN MEETING MEMBERS
+
+```
+All Town Meeting Members shall, within one hundred and twenty (120)
+days of their election or the effective date of this by-law,
+whichever occurs first, complete the on-line Conflict of Interest
+Law training provided by the State Ethics Commission.  In the
+alternative, Town Meeting Members may attend an educational
+training seminar hosted by the Office of Town Counsel.  This
+Article shall not apply to Town Meeting Members who have fulfilled
+the training requirements set forth in Article 3.20.  Town Meeting
+Members shall not be required to receive such training more than
+once, unless they are otherwise required to do so as special
+municipal employees under the provisions of G.L. c. 268A.  This
+by-law shall become effective on May 1, 2016.
+```
